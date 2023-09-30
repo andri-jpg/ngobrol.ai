@@ -1,0 +1,31 @@
+Dosis:
+- Dosis clobazam pada kondisi epilepsi:
+  - Dewasa: dosis awal 20-30 mg per hari, dosis dapat ditingkatkan hingga maksimal 60 mg per hari.
+  - Anak usia di atas 6 tahun: dosis awal 5 mg per hari, dosis dapat ditingkatkan hingga maksimal 60 mg per hari. Dosis harian umumnya adalah 0,3-1 mg/kgBB per hari.
+- Dosis clobazam pada gangguan kecemasan:
+  - Dewasa: 20-30 mg per hari, dikonsumsi sebagai dosis tunggal sebelum tidur atau dibagi menjadi beberapa kali jadwal konsumsi. Dosis dapat ditingkatkan hingga 60 mg per hari. Durasi pengobatan maksimal adalah 4 minggu.
+- Dosis clobazam pada lansia: 10-20 mg per hari.
+
+Efek Samping:
+- Efek samping yang mungkin timbul setelah mengonsumsi clobazam:
+  - Kantuk
+  - Pusing
+  - Air liur menetes (mengiler)
+  - Kelelahan
+  - Konstipasi
+  - Demam
+  - Batuk
+  - Kesulitan tidur
+
+Peringatan:
+- Beberapa peringatan sebelum mengonsumsi clobazam:
+  - Tidak boleh digunakan pada pasien yang alergi terhadap obat ini.
+  - Hati-hati pada pasien dengan riwayat gangguan otot, gangguan mental, glaukoma, penyakit hati atau ginjal, gangguan pernapasan, riwayat kecanduan alkohol atau obat terlarang, serta pada ibu hamil atau menyusui.
+  - Tidak boleh digunakan bersamaan dengan alcohol.
+  - Gunakan alat kontrasepsi hingga 28 hari setelah dosis terakhir clobazam.
+  - Berhati-hati saat melakukan aktivitas yang membutuhkan kewaspadaan jika mengalami pusing dan kantuk setelah mengonsumsi clobazam.
+  - Segera hentikan penggunaan clobazam dan konsultasikan kepada dokter jika mengalami perubahan drastis suasana hati, keinginan untuk menyakiti diri sendiri atau bunuh diri, serta gejala lain yang serius.
+  - Jangan menghentikan penggunaan clobazam secara tiba-tiba.
+
+Deskripsi:
+Clobazam adalah obat golongan benzodiazepine yang digunakan untuk mengatasi dan mencegah kejang pada penderita epilepsi, khususnya untuk Lennox-Gastaut syndrome. Obat ini juga dapat digunakan untuk meringankan gangguan kecemasan. Clobazam bekerja dengan cara meningkatkan efek dari gamma-aminobutyric acid (GABA), yang berfungsi sebagai penghambat arus listrik pada sel saraf. Obat ini bekerja pada otak, sistem saraf pusat, saraf tulang belakang, dan otot untuk

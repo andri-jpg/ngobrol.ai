@@ -1,0 +1,38 @@
+dosis:
+- Amobarbital: Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silahkan buka laman obat Amobarbital.
+- Butabarbital: Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silahkan buka laman obat Butabarbital.
+- Phenobarbital: Merek dagang: Sibital. Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silakan buka laman obat Phenobarbital.
+- Secobarbital: Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silakan buka laman obat Secobarbital.
+- Pentobarbital: Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silakan buka laman obat Pentobarbital.
+- Methohexital: Bentuk Obat: Suntik. Tujuan: Menjadi obat bius. Dewasa: Dosis induksi 50-120 mg yang diberikan melalui suntikan ke pembuluh darah vena (intravena/IV). Dosis pemeliharaan 20-40 mg suntik IV dengan kecepatan 3 ml/menit. Anak usia >1 bulan: Dalam bentuk sediaan 1 %, dosisnya adalah 25 mg/kgBB yang diberikan melalui suntikan ke dalam otot (intramuskular/IM).
+- Primidone: Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silakan buka laman obat Primidone.
+- Thiopental: Merek dagang: Thiopental (BER) G, Thiopental Sodium, Tiopol. Untuk mengetahui dosis dan informasi lebih lanjut mengenai obat ini, silakan buka laman obat Thiopental.
+- Mephobarbital: Bentuk Obat: Tablet. Tujuan: Menjadi sedatif. Dewasa: 32-100 mg, 3-4 kali sehari. Dosis maksimal 50 mg, 3-4 kali sehari. Anak-anak: 16-32 mg, 3-4 kali sehari. Tujuan: Menangani epilepsi. Dewasa: 400-600 mg per hari, dikonsumsi pada waktu biasanya kejang terjadi. Anak usia >5 tahun: 32 mg-64 mg, 3-4 kali sehari. Anak usia <5 tahun: 16 mg-32 mg, 3-4 kali sehari.
+
+efek samping:
+- Pusing atau muncul sensasi seperti melayang
+- Sakit kepala
+- Kikuk dan sulit menjaga keseimbangan
+- Nausea atau muntah
+- Lemas atau lelah yang berlebihan
+- Kantuk
+- Sakit perut
+- Gelisah atau bingung
+- Tekanan darah rendah
+
+peringatan:
+- Hanya digunakan sesuai dengan resep dokter
+- Tidak boleh digunakan oleh pasien dengan riwayat alergi terhadap obat ini
+- Tidak boleh digunakan pada pasien yang mengalami status asmatikus atau porfiria jenis intermittent variegate
+- Tidak boleh digunakan oleh pasien dengan penyakit saluran pernapasan yang berat, ketergantungan NAPZA, apnea tidur, atau kecanduan alkohol, serta memiliki keinginan untuk bunuh diri
+- Hindari mengonsumsi minuman beralkohol selama menjalani pengobatan dengan barbiturat
+- Tidak boleh melakukan kegiatan yang membutuhkan kewaspadaan, seperti mengemudikan kendaraan saat mengonsumsi barbiturat
+- Lakukan kontrol sesuai jadwal yang diberikan oleh dokter selama menjalani pengobatan dengan barbiturat
+- Jangan menambah, mengurangi, atau menghentikan pengobatan tanpa berkonsultasi terlebih dahulu dengan dokter
+- Konsultasikan dengan dokter perihal penggunaan barbiturat jika sedang menjalani pengobatan dengan obat, produk herbal, atau suplemen lain
+- Konsultasikan dengan dokter perihal penggunaan barbiturat jika sedang hamil, menyusui, atau merencanakan kehamilan
+- Beri tahu dokter bahwa sedang menjalani pengobatan dengan barbiturat sebelum menjalani tindakan medis tertentu atau operasi
+- Segera temui dokter jika terjadi reaksi alergi obat, overdosis, atau efek samping serius
+
+deskripsi:
+Barbiturat adalah kelompok obat yang digunakan dalam pengobatan kejang, insomnia berat, gangguan kecemasan, atau sebagai obat untuk menginduksi atau memulai proses pembiusan (anestesi). Barbiturat akan menekan kerja sistem saraf pusat dengan cara meningkatkan gamma-aminobutyric acid (GABA), zat kimia yang berfungsi menghambat hantaran sinyal di otak. Cara kerja ini memberikan efek tenang, mengantuk, relaksasi otot, serta menurunkan tekanan darah dan denyut jantung. Barbiturat rentan menyebabkan ketergantungan dan penyalahgunaan obat, sehingga penggunaannya harus diawasi oleh dokter.

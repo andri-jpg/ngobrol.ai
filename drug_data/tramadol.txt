@@ -1,0 +1,29 @@
+dosis : 
+- Tablet dan kapsul: Dewasa dan anak usia >12 tahun: 50-100 mg, setiap 4-6 jam. Dosis maksimal 400 mg per hari. Lansia: Dosis dimulai dari yang paling rendah, lalu disesuaikan dengan kondisi dan respons pasien terhadap pengobatan.
+- Suppositoria: Dewasa dan anak usia >14 tahun: 100-400 mg (1-4 suppositoria) per hari.
+- Suntik: Dewasa dan anak usia >12 tahun: Dosis awal 100 mg, diikuti dengan 50 mg tiap 10-20 menit. Dosis maksimal pada satu jam pertama setelah operasi adalah 250 mg, termasuk dosis pertama. Setelahnya, dosis diturunkan menjadi 50-100 mg, tiap 4-6 jam sekali. Dosis maksimal 600 mg per hari. Lansia: Dosis dimulai dari yang paling rendah, lalu disesuaikan dengan kondisi dan respons pasien terhadap pengobatan.
+- Setelah operasi: Dewasa dan anak usia >12 tahun: 50-100 mg, setiap 4-6 jam. Dosis maksimal 600 mg per hari. Lansia: Dosis dimulai dari yang paling rendah, lalu disesuaikan dengan kondisi dan respons pasien terhadap pengobatan.
+
+efek samping : 
+- Sulit buang air besar (sembelit)
+- Pusing
+- Kantuk
+- Sakit kepala
+- Sakit maag atau heartburn
+- Mulut kering
+- Gatal-gatal
+
+peringatan : 
+- Tidak boleh diberikan kepada pasien yang alergi terhadap obat ini.
+- Tidak boleh dikonsumsi bersama minuman beralkohol.
+- Tidak disarankan untuk digunakan oleh pasien dengan sumbatan usus, asma yang sering kambuh, atau penyakit saluran pernapasan yang berat.
+- Tidak boleh digunakan oleh pasien yang sedang menggunakan atau baru saja menggunakan obat golongan MAOI dalam 14 hari terakhir.
+- Tidak boleh digunakan selama hamil dan menyusui.
+- Jangan menggunakan tramadol jika Anda sedang atau baru saja menggunakan obat golongan MAOI dalam 14 hari terakhir.
+- Jika digunakan selama kehamilan, obat ini bisa meningkatkan risiko terjadinya efek samping yang berat pada bayi yang dilahirkan.
+- Jangan mengubah dosis maupun memulai atau menghentikan konsumsi obat tanpa persetujuan dokter.
+- Berhenti menggunakan obat secara mendadak dapat menyebabkan terjadinya sindrom putus obat, seperti gelisah dan mudah marah.
+- Jika Anda menggunakan opioid secara mandiri atau merawat orang yang menggunakan opioid, dokter mungkin akan memberikan Anda naloxone sebagai penawar untuk antisipasi overdosis.
+
+deskripsi : 
+Tramadol adalah obat untuk meredakan nyeri sedang hingga berat, seperti nyeri pascaoperasi. Obat ini tidak ditujukan untuk digunakan terus menerus dan bukan untuk meredakan nyeri ringan. Obat ini hanya boleh digunakan sesuai dengan resep dokter. Tramadol termasuk dalam golongan opioid. Obat ini bekerja dengan menghambat penghantaran sinyal rasa nyeri di sistem saraf pusat. Cara kerja ini akan mengurangi rasa sakit yang dirasakan oleh tubuh. Perlu diketahui, obat ini hanya digunakan jika obat pereda nyeri lain tidak efektif dalam mengurangi nyeri yang dirasakan pasien.

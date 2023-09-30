@@ -1,0 +1,33 @@
+dosis:
+- Chlorpromazine: dosis tergantung pada jenis dan bentuk obat, serta usia dan kondisi pasien.
+- Promazine: dewasa 100-200 mg 4 kali sehari, lansia dosis awal 25 mg, 4 kali sehari.
+- Fluphenazine: dosis tergantung pada jenis dan bentuk obat.
+- Mesoridazine (suntik): dewasa dosis awal 25 mg, dapat diulangi setelah 30-60 menit jika diperlukan, dosis maksimal 200 mg per hari.
+- Mesoridazine (minum): dewasa dosis awal 25-50 mg, 3 kali sehari, dapat ditingkatkan hingga 100-400 mg per hari.
+- Perphenazine: dosis tergantung pada jenis dan bentuk obat.
+- Prochlorperazine: dosis tergantung pada jenis dan bentuk obat.
+- Thioridazine: dewasa dosis awal 50-100 mg, dapat ditingkatkan hingga 200-800 mg per hari, dosis maksimal 800 mg per hari.
+- Trifluoperazine: dosis tergantung pada jenis dan bentuk obat.
+- Promethazine: dosis tergantung pada jenis dan bentuk obat.
+
+efek samping:
+- Urine menjadi berwarna gelap
+- Kantuk
+- Pusing
+- Tekanan darah rendah
+- Sembelit
+- Keringat berkurang
+- Mulut kering
+- Hidung tersumbat
+- Penglihatan kabur atau peka terhadap cahaya
+
+peringatan:
+- Hindari minum alkohol selama pengobatan dengan phenothiazine.
+- Tidak mengemudi atau melakukan aktivitas berbahaya selama pengobatan dengan phenothiazine.
+- Batasi atau hindari beraktivitas di bawah sinar matahari langsung.
+- Segera temui dokter jika terjadi reaksi alergi obat, efek samping yang serius, atau overdosis setelah menggunakan phenothiazine.
+
+deskripsi:
+Phenothiazine adalah golongan obat yang digunakan untuk mengobati gangguan mental seperti skizofrenia dan gangguan psikotik. Obat ini juga dapat digunakan untuk mengatasi kondisi lain seperti mual, muntah, dan cegukan. Phenothiazine bekerja dengan menghambat reseptor dopamin di otak sehingga dapat mengurangi gejala psikosis. Meski cara kerjanya belum diketahui secara pasti, obat ini juga dapat mengatasi beberapa gejala non-psikosis seperti mual, muntah, atau cegukan yang parah. Salah satu obat phenothiazine bernama promethazine tidak digunakan sebagai antipsikotik.
+
+

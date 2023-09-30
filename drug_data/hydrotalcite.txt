@@ -1,0 +1,14 @@
+dosis: Tidak disebutkan dosis yang tepat dalam teks
+
+efek samping: Mual, konstipasi, diare, sakit kepala
+
+peringatan: 
+- Beri tahu dokter tentang riwayat alergi yang Anda miliki.
+- Jangan menggunakan obat ini jika alergi terhadap hydrotalcite.
+- Beri tahu dokter jika Anda menderita diare, konstipasi, sumbatan usus, penyakit liver, perdarahan saluran pencernaan, atau penyakit ginjal, termasuk batu ginjal.
+- Beberapa produk hydrotalcite suspensi bisa mengandung aspartame, beri tahu dokter jika Anda menderita fenilketonuria.
+- Beri tahu dokter jika Anda sedang mengonsumsi obat, suplemen, atau produk herbal tertentu.
+- Beri tahu dokter jika Anda sedang hamil, berencana untuk hamil, atau sedang menyusui.
+- Segera temui dokter jika Anda mengalami reaksi alergi obat, efek samping yang serius, atau overdosis setelah mengonsumsi hydrotalcite.
+
+deskripsi: Hydrotalcite adalah obat antasida yang digunakan untuk meredakan gejala sakit maag, heartburn, radang lambung (gastritis), atau tukak lambung. Obat ini bekerja dengan menurunkan tingkat keasaman di lambung, sehingga dapat meredakan gejala seperti nyeri ulu hati dan rasa panas di dada (heartburn). Obat ini tersedia dalam bentuk tablet kunyah dan suspensi cair. Hydrotalcite bisa dikonsumsi oleh anak usia 6 tahun hingga orang dewasa. Namun, sebaiknya konsultasikan dengan dokter terlebih dahulu jika Anda sedang hamil atau menyusui. Juga, hydrotalcite tidak boleh digunakan jika Anda alergi terhadapnya.

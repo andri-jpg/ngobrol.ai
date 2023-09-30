@@ -1,0 +1,33 @@
+dosis:
+- Glibenclamide: dosis dan informasi lebih lanjut dapat dilihat di laman obat glibenclamide.
+- Gliclazide: dosis dan informasi lebih lanjut dapat dilihat di laman obat gliclazide.
+- Glimepiride: dosis dan informasi lebih lanjut dapat dilihat di laman obat glimepiride.
+- Glipizide: dosis dan informasi lebih lanjut dapat dilihat di laman obat glipizide.
+- Gliquidone: dosis dan informasi lebih lanjut dapat dilihat di laman obat gliquidone.
+
+efek samping:
+- Rendahnya kadar gula darah (hipoglikemia)
+- Keringat dingin
+- Pusing
+- Gemetar
+- Gugup
+- Bingung
+- Lapar
+- Mual
+- Berat badan naik
+- Sakit perut
+- Urine berwarna gelap
+
+peringatan:
+- Jangan mengonsumsi sulfonilurea jika Anda alergi terhadap obat ini.
+- Beri tahu dokter jika Anda menderita diabetes tipe 1.
+- Tidak boleh digunakan pada pasien dengan kondisi penyakit ginjal, penyakit hati, porfiria, atau penyakit defisiensi glukosa-6-fosfat dehidrogenase (G6PD deficiency).
+- Beri tahu dokter jika sedang mengonsumsi obat, suplemen, atau produk herbal tertentu.
+- Beri tahu dokter jika sedang hamil, menyusui, atau merencanakan kehamilan.
+- Beri tahu dokter bahwa sedang menjalani pengobatan dengan sulfonilurea sebelum menjalani tindakan medis, termasuk perawatan gigi atau operasi.
+- Hindari paparan sinar matahari secara langsung dalam waktu yang lama dan gunakan tabir surya jika akan keluar rumah pada siang hari.
+- Hindari konsumsi minuman beralkohol selama menjalani pengobatan dengan sulfonilurea.
+- Segera temui dokter jika muncul reaksi alergi obat atau overdosis setelah mengonsumsi sulfonilurea.
+
+deskripsi:
+Sulfonilurea adalah obat antidiabetes oral yang digunakan untuk mengobati diabetes tipe 2. Obat ini bekerja dengan cara merangsang pankreas agar menghasilkan lebih banyak hormon insulin dan membantu tubuh menggunakan insulin dengan lebih efisien. Penggunaan sulfonilurea perlu dikombinasikan dengan penerapan pola makan yang sehat dan olahraga teratur agar dapat menurunkan risiko terjadinya komplikasi diabetes, seperti stroke atau penyakit jantung. Sulfonilurea tidak dapat digunakan untuk mengobati diabetes tipe 1, karena obat ini hanya dapat menurunkan gula darah pada penderita yang mampu memproduksi insulin secara alami dalam tubuhnya.

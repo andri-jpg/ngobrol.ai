@@ -1,0 +1,29 @@
+dosis:
+- Dosis awal: 10 mg, 4 kali sehari, selama 4–6 minggu.
+- Dosis lanjutan: Dosis dapat ditingkatkan secara bertahap menjadi 40 mg, 4 kali sehari, jika hasil pemeriksaan fungsi hati pasien dinyatakan normal.
+- Dosis maksimal: 160 mg per hari yang dibagi dalam 4 kali jadwal konsumsi, atau 40 mg.
+
+efek samping:
+- Mual atau muntah
+- Sakit perut atau sakit maag
+- Diare
+- Pusing
+- Tidak nafsu makan
+- Nyeri otot
+- Hilang nafsu makan
+- Konstipasi
+- Sulit tidur atau justru kantuk yang berlebihan
+- Tremor atau gangguan keseimbangan
+- Peningkatan enzim hati dan kerusakan hati
+- Denyut jantung lambat
+- Tekanan darah rendah
+- Kejang
+
+peringatan:
+- Tacrine tidak boleh diberikan pada pasien yang alergi terhadap obat ini.
+- Tacrine tidak boleh digunakan oleh pasien dengan riwayat penyakit liver, tukak lambung, atau ulkus duodenum.
+- Tacrine tidak boleh digunakan pada pasien dengan riwayat sakit maag, pembesaran kelenjar prostat, PPOK, hipotensi, denyut jantung lambat, kejang, atau penyakit Parkinson.
+- Tacrine memiliki kategori kehamilan C, sehingga penggunaan pada ibu hamil hanya diperbolehkan jika manfaat yang diharapkan melebihi risiko terhadap janin. Belum diketahui apakah tacrine dapat terserap ke dalam ASI atau tidak, sehingga penggunaan pada ibu menyusui perlu berkonsultasi dengan dokter terlebih dahulu.
+
+deskripsi:
+Tacrine adalah obat yang digunakan dalam pengobatan demensia Alzheimer derajat ringan hingga sedang. Obat ini bekerja dengan meningkatkan jumlah asetilkolin dengan menghambat kerja enzim pemecahnya, sehingga diharapkan dapat membantu memperbaiki kemampuan berpikir penderita Alzheimer. Namun, perlu diingat bahwa obat ini tidak bisa menyembuhkan demensia Alzheimer. Tacrine tersedia dalam bentuk kapsul.

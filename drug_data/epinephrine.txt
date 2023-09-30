@@ -1,0 +1,29 @@
+dosis : 
+- Untuk mengatasi syok anafilaktik: Dewasa - Dosis 0,5 mg, diberikan melalui suntikan otot (intramuskular/IM), setiap 5 menit hingga ada tanda-tanda pemulihan kondisi pasien dari syok anafilaktik. Anak-anak - Dosis 0,01 mg/kgBB, diberikan melalui suntikan di otot (intramuskular/IM) atau suntikan di pembuluh darah (intravena/IV).
+- Untuk tindakan bantuan hidup dasar dan resusitasi jantung paru (RJP): Dewasa - Dosis 1 mg, diberikan melalui suntikan ke pembuluh darah (intravena/IV), dapat diulangi setiap 2-3 menit hingga kondisi pasien mulai pulih dan denyut jantung normal kembali. Anak-anak - Dosis 0,01 mg/kgBB, diberikan melalui suntikan ke pembuluh darah (intravena/IV), dapat diulangi setiap 2-3 menit sekali hingga kondisi pasien mulai pulih dan denyut jantung normal kembali.
+
+efek samping : 
+- Keringat berlebihan
+- Mual atau muntah
+- Gelisah atau cemas
+- Pusing
+- Napas terasa berat
+- Lemas
+- Sakit kepala
+- Gemetar
+- Pucat
+- Bengkak, merah, atau nyeri di area suntikan
+
+peringatan : 
+- Hanya digunakan di rumah sakit dan diberikan oleh dokter.
+- Tidak boleh diberikan kepada pasien yang alergi terhadap obat ini.
+- Harus diberikan dengan pemantauan ketat oleh dokter.
+- Harus diberitahu dokter tentang riwayat penyakit jantung dan pembuluh darah, penyakit ginjal, penyakit tiroid, diabetes, depresi, penyakit Parkinson, asma, atau pheochromocytoma.
+- Tidak boleh mengemudikan kendaraan atau melakukan aktivitas yang membutuhkan kewaspadaan setelah menggunakan obat ini.
+- Harus diberitahu dokter tentang penggunaan obat, suplemen, atau produk herbal tertentu.
+- Efek pada ibu hamil dan menyusui masih belum diketahui, tetapi jika tujuannya untuk menyelamatkan nyawa maka obat ini tetap diberikan.
+  
+deskripsi : 
+Epinephrine atau adrenalin adalah obat yang digunakan untuk mengatasi syok anafilaktik akibat reaksi alergi berat. Obat ini juga digunakan pada tindakan resusitasi jantung paru (RJP). Epinephrine bekerja dengan cara melemaskan otot-otot saluran pernapasan dan meningkatkan ketegangan pada pembuluh darah. Obat ini bekerja dengan cepat untuk memicu kerja jantung, meningkatkan tekanan darah, melegakan pernapasan, meredakan ruam, dan mengurangi pembengkakan di wajah, bibir, dan tenggorokan.
+
+

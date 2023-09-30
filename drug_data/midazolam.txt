@@ -1,0 +1,35 @@
+Dosis: Berikut ini adalah beberapa pembagian dosis midazolam berdasarkan tujuan penggunaannya:
+
+1. Tujuan: Sebagai obat penenang sebelum operasi minor atau operasi gigi
+
+- Dewasa dan anak usia di atas 12 tahun: Dosis awal 2-2,5 mg, diberikan 5-10 menit sebelum operasi. Dosis dapat ditingkatkan secara bertahap hingga efek bius optimal.
+- Anak usia 6 bulan-5 tahun: Dosis awal 0,05-0,1 mg/kgBB, diberikan 5-10 menit sebelum operasi. Jika perlu, dosis dapat ditingkatkan hingga 0,6 mg/kgBB dengan dosis maksimal 6 mg per hari.
+- Anak usia 6-12 tahun: Dosis awal 0,025-0,05 mg/kgBB, diberikan 5-10 menit sebelum operasi. Jika perlu, dosis dapat ditingkatkan hingga 0,4 mg/kgBB dengan dosis maksimal 10 mg per hari.
+- Lansia: Dosis awal 0,5-1 mg, diberikan pada 5-10 menit sebelum operasi. Dosis bisa ditambahkan secara bertahap sampai maksimal 3,5 mg.
+
+2. Tujuan: Sebagai obat penenang untuk pasien yang menjalani perawatan intensif
+
+- Dewasa: Dosis awal 0,03-0,3 mg/kgBB, disuntikkan perlahan selama 20-30 detik. Dosis pemeliharaan 0,03-0,2 mg/kgBB per jam.
+- Anak usia >6 bulan: Dosis awal 0,05-0,2 mg/kgBB, diberikan dengan suntikan lambat selama minimal 2-3 menit. Dosis pemeliharaan 0,06-0,12 mg/kgBB per jam.
+- Bayi usia <32 minggu sampai 6 bulan: 0,06 mg/kgBB per jam, diberikan melalui infus yang berkelanjutan.
+
+3. Tujuan: Sebagai tahap awal pembiusan
+
+- Dewasa: Pasien yang sudah minum obat penenang: 0,15-0,2 mg/kgBB melalui suntikan IV lambat. Pasien yang belum minum obat penenang: 0,3-0,35 mg/kgBB melalui suntikan IV lambat.
+- Lansia usia >60 tahun: Pasien yang sudah minum obat penenang: 0,05-0,15 mg/kgBB. Pasien yang belum minum obat penenang: 0,15-0,3 mg/kgBB.
+
+4. Tujuan: Sebagai premedikasi untuk menenangkan pasien sebelum bedah
+
+- Dewasa: 0,07-0,1 mg/kgBB (sekitar 5 mg) disuntikkan secara IM, diberikan 20-60 menit sebelum pembedahan. Dosis alternatif 1-2 mg melalui suntik IV, diberikan 5-30 menit sebelum bedah.
+- Anak usia 1-15 tahun: 0,08-0,2 mg/kgBB melalui suntik IM, diberikan 15-30 menit sebelum bedah.
+- Lansia: 0,025-0,05 mg/kgBB melalui suntikan IM, diberikan pada 20-60 menit sebelum operasi. Dosis alternatif 0,5 melalui suntik IV, diberikan 5-30 menit sebelum operasi.
+
+5. Tujuan: Sebagai pereda kejang pada status epileptikus
+
+- Dewasa: 10 mg yang disuntikan secara IM.
+
+Efek Samping: Beberapa efek samping yang dapat timbul setelah menggunakan midazolam adalah nyeri, kemerahan, atau bengkak di area bekas suntikan, sakit kepala, mual atau muntah, kantuk, cegukan, mudah lupa setelah prosedur operasi selesai, penglihatan kabur. Jika mengalami efek samping yang tidak kunjung membaik atau bahkan memburuk, segera periksakan diri ke dokter.
+
+Peringatan: Sebelum menggunakan midazolam, beri tahu dokter jika Anda memiliki riwayat alergi terhadap obat ini atau obat golongan benzodiazepine lain, riwayat glaukoma, gagal jantung, penyakit ginjal, penyakit liver, myasthenia gravis, gangguan pernapasan, sleep apnea, atau tekanan darah rendah. Hindari mengonsumsi minuman beralkohol setidaknya 2 hari setelah menjalani pengobatan dengan midazolam. Jangan mengemudi atau melakukan aktivitas lain yang memerlukan kewaspadaan selama 1-2 hari setelah menggunakan midazolam. Beri tahu dokter jika Anda sedang menjalani terapi dengan obat golongan opioid seperti codein. Informasikan juga kepada dokter mengenai obat atau suplemen lain yang Anda konsumsi.
+
+Deskripsi: Midazolam adalah obat penenang yang biasa digunakan sebelum tindakan operasi. Obat ini dapat mengurangi rasa cemas, serta membuat pasien rileks dan mengantuk sebelum operasi. Midazolam juga digunakan untuk meredakan kejang pada status epileptikus. Obat ini bekerja dengan cara meningkatkan aktivitas zat kimia alami GABA di sistem saraf pusat, sehingga menimbulkan efek tenang, rileks, dan kantuk.

@@ -1,0 +1,39 @@
+dosis : 
+- Tujuan: Mengatasi infeksi akibat efek samping kemoterapi
+   - Dewasa dan anak usia >12 tahun: 4,5 gram, setiap 6 jam. Lama pengobatan 5-14 hari.
+   - Anak usia 2-12 tahun: 90 mg/kgBB, setiap 6 jam, melalui infus selama 30 menit. Lama pengobatan 5-14 hari. Dosis maksimal 4,5 gram per dosis.
+
+- Tujuan: Menangani pneumonia nosokomial atau pneumonia akibat perawatan di rumah sakit
+   - Dewasa dan anak usia >12 tahun: 4,5 gram, setiap 6 jam, melalui infus selama 30 menit. Lama pengobatan 5-14 hari.
+   - Anak usia 2-12 tahun: 90 mg/kgBB, setiap 6 jam, melalui infus selama 30 menit. Lama pengobatan 5-14 hari. Dosis maksimal 4,5 gram per dosis.
+
+- Tujuan: Mengatasi infeksi pada rongga perut
+   - Dewasa: 4,5 gram, setiap 8 jam, melalui infus selama 30 menit. Lama pengobatan 5-14 hari.
+   - Anak usia 2-12 tahun: 112,5 mg/kgBB, setiap 8 jam, melalui infus selama 30 menit. Lama pengobatan 5-14 hari.
+
+- Tujuan: Mengatasi infeksi saluran kemih atau infeksi kulit dan jaringan lunak dengan komplikasi
+   - Dewasa: 4,5 gram, setiap 8 jam melalui infus selama 30 menit. Lama pengobatan 5-14 hari.
+
+- Tujuan: Mengatasi infeksi rongga panggul
+   - Dewasa: 3,375 gram, setiap 6 jam. Lama pengobatan 7-10 hari.
+
+efek samping :
+- Diare
+- Sembelit
+- Mual
+- Sakit kepala
+- Sulit tidur (insomnia)
+
+peringatan :
+- Beri tahu dokter riwayat alergi yang Anda miliki, terutama terhadap antibiotik penicillin atau cephalosporin.
+- Piperacillin-tazobactam tidak boleh dikonsumsi oleh orang yang alergi terhadap obat tersebut.
+- Informasikan kepada dokter jika Anda menderita cystic fibrosis, penyakit ginjal, kejang, gangguan perdarahan, ketidakseimbangan elektrolit, atau penyakit jantung.
+- Beri tahu dokter jika Anda memiliki hipertensi, menjalani diet rendah garam, atau menjalani cuci darah secara rutin.
+- Beri tahu dokter bahwa Anda sedang menggunakan piperacillin-tazobactam jika Anda direncanakan untuk menjalani vaksinasi dengan vaksin bakteri hidup, seperti vaksin tifoid atau vaksin kolera.
+- Piperacillin-tazobactam dapat menurunkan efektivitas vaksin tersebut.
+- Informasikan kepada dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk menghindari interaksi obat yang tidak diinginkan.
+- Beri tahu dokter jika Anda sedang hamil, menyusui, atau sedang merencanakan kehamilan.
+- Segera ke dokter jika Anda mengalami reaksi alergi obat atau efek samping serius setelah menggunakan piperacillin-tazobactam.
+
+deskripsi :
+Piperacillin-tazobactam adalah antibiotik golongan penisilin yang digunakan untuk mengobati infeksi bakteri. Obat ini bekerja membunuh bakteri penyebab infeksi dengan menghambat pembentukan dinding selnya. Piperacillin-tazobactam umumnya digunakan untuk mengatasi infeksi bakteri yang berat di rongga perut atau panggul, saluran kemih, kulit, dan paru-paru. Obat ini hanya efektif untuk mengobati infeksi bakteri, tetapi tidak untuk mengatasi infeksi virus. Piperacillin-tazobactam diberikan melalui infus dan hanya boleh digunakan atas anjuran dokter.

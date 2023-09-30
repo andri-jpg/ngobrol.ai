@@ -1,0 +1,38 @@
+Dosis:
+- Rheumatoid arthritis (IV): 4 mg/kgBB setiap 4 minggu. Dosis maksimal adalah 800 mg tiap pemberian.
+- Rheumatoid arthritis (SC) untuk dewasa dengan BB <100 kg: 162 mg setiap 2 minggu. Dosis dapat ditingkatkan sesuai respons pasien.
+- Rheumatoid arthritis (SC) untuk dewasa dengan BB ≥100 kg: 162 mg setiap minggu.
+- Giant cell arteritis (IV): 6 mg/kgBB setiap 4 minggu.
+- Giant cell arteritis (SC): 162 mg, 1 kali seminggu.
+- Systemic juvenile idiopathic arthritis (IV) untuk anak-anak dengan BB <30 kg: 12 mg/kgBB, 1 kali setiap 2 minggu.
+- Systemic juvenile idiopathic arthritis (IV) untuk anak-anak dengan BB ≥30 kg: 8 mg/kgBB, 1 kali setiap 2 minggu.
+- Systemic juvenile idiopathic arthritis (SC) untuk anak-anak dengan BB <30 kg: 162 mg, 1 kali setiap 2 minggu.
+- Systemic juvenile idiopathic arthritis (SC) untuk anak-anak dengan BB ≥30 kg: 162 mg, 1 kali setiap minggu.
+- Polyarticular juvenile idiopathic arthritis (IV) untuk anak-anak dengan BB <30 kg: 10 mg/kgBB, 1 kali setiap 4 minggu.
+- Polyarticular juvenile idiopathic arthritis (IV) untuk anak-anak dengan BB ≥30 kg: 8 mg/kgBB, 1 kali setiap 4 minggu.
+- Polyarticular juvenile idiopathic arthritis (SC) untuk anak-anak dengan BB <30 kg: 162 mg, 1 kali setiap 3 minggu.
+- Polyarticular juvenile idiopathic arthritis (SC) untuk anak-anak dengan BB ≥30 kg: 162 mg, 1 kali setiap 2 minggu.
+
+Efek samping:
+- Nyeri, kemerahan, gatal atau bengkak di area bekas suntikan.
+- Sakit kepala.
+- Hidung meler.
+- Sakit tenggorokan.
+- Kenaikan pada hasil tes fungsi hati.
+
+Peringatan:
+- Hindari penggunaan jika Anda alergi terhadap tocilizumab.
+- Beri tahu dokter jika Anda sedang menderita diabetes, penyakit saraf motorik, penyakit liver, tukak lambung, kanker, diverkulitis, atau leukopenia.
+- Beri tahu dokter jika sedang menderita sistem imun yang lemah, misalnya akibat HIV/AIDS.
+- Beri tahu dokter jika Anda sedang atau sering mengalami gejala infeksi, seperti demam, menggigil, batuk, sariawan, diare, atau nyeri buang air kecil.
+- Informasikan juga kepada dokter jika memiliki infeksi yang berlangsung lama, seperti tuberkulosis atau hepatitis B.
+- Beri tahu dokter mengenai rencana vaksinasi apa pun selama menjalani pengobatan dengan Actemra.
+- Hindari kontak dengan penderita penyakit infeksi yang mudah menular, seperti campak atau flu, atau orang yang baru saja mendapatkan vaksin hidup, seperti vaksin polio.
+- Beri tahu dokter bahwa Anda sedang menggunakan Actemra jika berencana menjalani prosedur operasi, termasuk pada gigi.
+- Beri tahu dokter jika Anda sedang mengonsumsi obat, suplemen, atau produk herbal, untuk mengantisipasi terjadinya interaksi obat.
+- Informasikan kepada dokter jika Anda sedang hamil, menyusui, atau merencanakan kehamilan.
+- Beri tahu juga jika Anda sedang menunda kehamilan dengan alat kontrasepsi hormonal, karena Actemra dapat mengurangi efektivitasnya.
+- Segera temui dokter jika terjadi reaksi alergi obat atau efek samping yang serius setelah menggunakan Actemra.
+
+Deskripsi:
+Actemra adalah obat untuk mengendalikan peradangan dan mengurangi gejala penyakit autoimun, seperti rhe

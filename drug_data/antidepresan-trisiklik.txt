@@ -1,0 +1,35 @@
+dosis:
+- Amitriptyline: Dosis awal adalah 75 mg per hari yang dibagi menjadi beberapa dosis atau sebagai dosis tunggal yang diberikan sebelum tidur. Dosis bisa ditingkatkan secara bertahap menjadi 150-200 mg per hari jika diperlukan.
+- Clomipramine: Tidak disebutkan dosis secara spesifik dalam artikel ini.
+- Doxepin: Tidak disebutkan dosis secara spesifik dalam artikel ini.
+- Maprotiline: Tidak disebutkan dosis secara spesifik dalam artikel ini.
+- Imipramine: Dosis awal untuk dewasa adalah 75 mg per hari yang dibagi menjadi beberapa dosis atau sebagai dosis tunggal sebelum tidur. Dosis bisa ditingkatkan menjadi 150-200 mg per hari jika diperlukan. Dosis awal untuk lansia adalah 10 mg per hari dan bisa ditingkatkan menjadi 30-50 mg per hari jika diperlukan.
+
+efek samping:
+- Penglihatan kabur
+- Mulut kering
+- Konstipasi
+- Denyut jantung cepat atau tidak teratur
+- Sakit kepala, pusing, atau kantuk
+- Nafsu makan meningkat
+- Retensi urine
+- Berat badan naik atau turun
+- Penurunan gairah seksual
+- Tekanan darah rendah (hipotensi)
+- Tremor atau berkeringat berlebihan
+
+peringatan:
+- Hanya boleh digunakan sesuai resep dokter.
+- Tidak boleh digunakan oleh pasien yang alergi terhadap obat ini.
+- Tidak boleh digunakan oleh pasien yang sedang atau baru saja menjalani pengobatan dengan antidepresan golongan MAOI.
+- Tidak boleh digunakan oleh pasien yang baru saja mengalami serangan jantung.
+- Harus diberitahu dokter jika memiliki riwayat glaukoma, penyakit hati, penyakit jantung koroner, penyakit ginjal, kejang, gangguan irama jantung, pheochromocytoma, penyakit tiroid, pembesaran prostat, atau diabetes.
+- Harus diberitahu dokter jika sedang hamil, menyusui, atau sedang merencanakan kehamilan.
+- Harus diberitahu dokter jika sedang menggunakan obat-obatan lain, termasuk suplemen dan produk herbal tertentu.
+- Tidak disarankan mengemudikan kendaraan atau melakukan kegiatan yang membutuhkan kewaspadaan setelah menggunakan obat ini karena dapat menyebabkan pusing dan mengantuk.
+- Harus diberitahu dokter sebelum menjalani tindakan medis, termasuk perawatan gigi atau operasi.
+- Segera pergi ke dokter jika mengalami reaksi alergi obat atau overdosis setelah menggunakan antidepresan trisiklik.
+- Juga harus segera pergi ke dokter jika efek samping tidak kunjung mereda atau semakin parah, atau jika ada keinginan untuk bunuh diri setelah menggunakan antidepresan trisiklik.
+
+deskripsi:
+Antidepresan trisiklik adalah kelompok obat untuk meredakan gejala depresi, bipolar, atau distimia. Obat ini digunakan jika gejala depresi tidak kunjung mereda meski sudah mendapat terapi dengan obat antidepresan lain. Cara kerja antidepresan trisiklik adalah menghambat penyerapan kembali dari noepinephrine dan serotonin, sehingga meningkatkan kadarnya di dalam otak. Selain untuk mengobati gangguan suasana perasaan, antidepresan trisiklik juga bisa digunakan dalam pengobatan gangguan obsesif kompulsif, gangguan cemas, PTSD, serangan panik, nyeri saraf, atau migrain.

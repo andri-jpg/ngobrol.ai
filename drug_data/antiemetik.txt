@@ -1,0 +1,27 @@
+dosis :
+- Diphenhydramine: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mabuk perjalanan pada orang dewasa, dosis yang umum adalah 25-50 mg setiap 6-8 jam. Untuk anak-anak usia 6-12 tahun, dosis yang umum adalah 12.5-25 mg setiap 6-8 jam.
+- Dimenhydrinate: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mabuk perjalanan pada orang dewasa, dosis yang umum adalah 50-100 mg setiap 4-6 jam. Untuk anak-anak usia 2-6 tahun, dosis yang umum adalah 12.5-25 mg setiap 6-8 jam.
+- Metoclopramide: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah akibat kemoterapi pada orang dewasa, dosis yang umum adalah 2-10 mg setiap 4-6 jam. Untuk anak-anak usia 1-18 tahun, dosis yang umum adalah 0.1-0.15 mg/kgBB setiap 4-6 jam.
+- Chlorpromazine: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 25-50 mg setiap 6-8 jam.
+- Promethazine: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 25 mg setiap 4-6 jam. Untuk anak-anak usia 2-5 tahun, dosis yang umum adalah 5-15 mg setiap 4-6 jam.
+- Domperidone: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 10-20 mg setiap 4-8 jam. Untuk anak-anak usia 1-12 tahun, dosis yang umum adalah 0.25-0.5 mg/kgBB setiap 4-8 jam.
+- Pyrathiazine: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 25-50 mg setiap 4-6 jam.
+- Ondansetron: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 16-24 mg setiap 12 jam.
+- Granisetron: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 1 mg setiap 12 jam.
+- Palonosetron: Dosis dapat bervariasi tergantung pada kondisi dan usia pasien. Untuk mengatasi mual dan muntah pada orang dewasa, dosis yang umum adalah 0.25 mg setiap 12 jam.
+
+efek samping :
+- Sakit kepala
+- Sembelit
+- Rasa lelah atau kantuk
+- Pusing
+- Mulut kering
+- Hilang nafsu makan
+
+peringatan :
+- Jangan menggunakan antiemetik jika memiliki alergi terhadap obat ini.
+- Jangan menggunakan obat antiemetik untuk mengatasi mual saat hamil (morning sickness) tanpa seizin dokter.
+- Jangan memberikan obat ini kepada anak usia di bawah 4 tahun tanpa persetujuan dokter.
+- Beri tahu dokter jika Anda pernah atau sedang menderita epilepsi, tardive dyskinesia, penyakit liver, asma, glaukoma, penyakit tiroid, penyakit ginjal, penyakit jantung, gagal jantung, atau penyumbatan di lambung atau usus.
+- Beri tahu dokter jika Anda atau keluarga memiliki riwayat gangguan irama jantung (aritmia) atau hasil elektrokardiogram (EKG) yang tidak normal.
+- Jangan langsung berkendara atau melakukan aktivitas lain yang memerlukan kewaspadaan setelah mengonsumsi antiemetik, karena ob

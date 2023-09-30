@@ -1,0 +1,26 @@
+Dosis:
+- Untuk infeksi bakteri yang diketahui dapat ditangani dengan gentamicin:
+  - Dewasa: Dosis untuk infeksi berat adalah 3-5 mg/kgBB per hari, dibagi dalam 3 dosis yang diberikan setiap 8 jam, selama 7-10 hari. Dosis diberikan melalui suntik IM, suntik IV selama 2-3 menit, atau infus selama 20-30 menit.
+  - Anak-anak: Dosis disesuaikan dengan usia. Pada anak berusia <1 bulan, dosisnya adalah 4-7 mg/kgBB per hari, diberikan dalam 1-2 dosis. Pada anak berusia ≥1 bulan, dosisnya adalah 4,5-7,5 mg/kgBB per hari, diberikan dalam 1-2 dosis. Pada anak berusia ≥1 tahun, dosisnya adalah 3-6 mg/kgBB per hari, diberikan dalam 1-2 dosis.
+- Untuk meningitis bakterialis atau peradangan pada ventrikel otak:
+  - Dewasa: 1 mg per hari dengan suntikan intrathekal atau intraventrikular, diikuti dengan dosis 1 mg/kgBB setiap 8 jam melalui suntikan IM atau IV.
+
+Efek samping:
+- Nyeri, iritasi, dan kemerahan pada area yang diinfus atau disuntik
+- Nausea, muntah, sakit perut, atau diare
+- Hilang nafsu makan atau penurunan berat badan
+- Nyeri sendi
+- Sakit kepala
+- Tubuh terasa lelah
+- Gangguan penglihatan
+
+Peringatan:
+- Tidak boleh diberikan kepada pasien yang alergi terhadap gentamicin, sulfit, atau obat golongan aminoglikosida lainnya.
+- Harus berhati-hati jika memiliki riwayat asma, penyakit ginjal, cystic fibrosis, myasthenia gravis, tuli, vertigo, tinnitus, penyakit Parkinson, dehidrasi, atau gangguan elektrolit.
+- Gunakan alat kontrasepsi yang efektif selama pengobatan dengan gentamicin untuk mencegah kehamilan.
+- Beri tahu dokter jika sedang menggunakan obat lain.
+- Jika sedang hamil, berencana hamil, mungkin hamil, atau sedang menyusui, jangan mengonsumsi obat ini tanpa arahan dan pengawasan dokter.
+- Informasikan kepada dokter bahwa sedang menggunakan gentamicin sebelum menjalani operasi, perawatan gigi, atau prosedur medis apa pun.
+
+Deskripsi:
+Gentamicin adalah obat untuk mengatasi infeksi bakteri di berbagai bagian tubuh, mulai dari telinga luar, mata, kulit, hingga otak. Obat ini bekerja dengan cara mengganggu proses produksi protein yang dibutuhkan untuk membangun dinding sel bakteri. Dengan begitu, dinding sel bakteri menjadi rusak dan bakteri akan mati. Gentamicin memiliki berbagai sediaan untuk penggunaan lokal, seperti krim dan salep untuk mata, serta tetes telinga. Jenis-jenis merek dagang gentamicin suntik dan infus meliputi Gentamicin Sulfate, Ottogenta, Sagestam, dan Salticin. Gentamicin termasuk dalam golongan antibiotik aminoglikosida.

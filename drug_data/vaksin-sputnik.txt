@@ -1,0 +1,7 @@
+Dosis: Dosis vaksin Sputnik yang diberikan dalam sekali suntikan adalah 0,5 ml. Penyuntukan vaksin Sputnik dilakukan sebanyak 2 kali, dengan rentang waktu antarpenyuntikan adalah 21 hari.
+
+Efek samping: Efek samping yang bisa terjadi setelah penyuntikan vaksin Sputnik termasuk sakit kepala, nyeri, kemerahan, atau bengkak di area suntikan, demam atau menggigil, kelelahan, nyeri otot, dan mual.
+
+Peringatan: Sebelum menerima vaksin Sputnik, perlu diperhatikan bahwa vaksin ini tidak boleh diberikan kepada seseorang yang alergi terhadap kandungan yang ada di dalam vaksin ini. Juga, belum diketahui efektivitas dan keamanan pemberian vaksin ini pada ibu hamil, merencanakan kehamilan, atau sedang menyusui. Segera temui dokter jika Anda mengalami reaksi alergi atau efek samping yang lebih serius setelah menerima vaksin Sputnik. 
+
+Deskripsi: Vaksin Sputnik adalah vaksin yang digunakan untuk mencegah infeksi virus SARS-CoV-2 atau COVID-19. Vaksin ini dikembangkan oleh Gamaleya Research Institute, Rusia. Vaksin Sputnik dibuat dengan memodifikasi protein pada dua jenis adenovirus, yaitu adenovirus 26 (Ad26) dan adenovirus 5 (Ad5), sehingga mampu membentuk protein spike dari virus SARS-CoV-2. Saat disuntikkan ke dalam tubuh, vaksin ini akan memicu sistem imun untuk membentuk antibodi untuk melawan virus Corona penyebab COVID-19. Vaksin Sputnik memiliki efikasi sebesar 91,6% berdasarkan hasil uji klinis fase 3 yang dilakukan di Rusia.

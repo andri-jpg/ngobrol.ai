@@ -1,0 +1,40 @@
+Dosis:
+- Fungsi sebagai obat bius umum:
+  - Dewasa: Dosis induksi 40 mg setiap 10 detik, dosis pemeliharaan 1,5-2,5 mg/kgBB, dosis pemeliharaan alternatif 25-50 mg obat emulsi 1% melalui intermittent bolus injection.
+  - Lansia: Dosis induksi 20 mg setiap 10 detik, dosis pemeliharaan 3-6 mg/kgBB per jam.
+  - Anak-anak: Dosis induksi 2,5-4 mg/kgBB, dosis pemeliharaan 9-15 mg/kgBB per jam.
+- Fungsi sebagai obat penenang (sedatif) untuk prosedur diagnosis atau operasi:
+  - Dewasa: Dosis awal 6-9 mg/kgBB per jam, dosis pemeliharaan 1,5-4,5 mg/kgBB per jam, dosis tambahan hingga 20 mg obat emulsi 1% melalui incremental bolus injection jika diperlukan.
+  - Anak-anak: Dosis awal 1-2 mg/kgBB, dosis pemeliharaan 1,5-9 mg/kgBB per jam, dosis tambahan hingga 1 mg/kgBB obat emulsi 1% melalui suntikan bolus jika diperlukan.
+- Fungsi sebagai obat penenang (sedatif) untuk pasien ICU yang menggunakan ventilator:
+  - Dewasa: Dosis induksi dan dosis pemeliharaan 0,3-4 mg/kgBB per jam.
+
+Efek samping:
+- Nyeri, rasa tertusuk, atau rasa terbakar di area penyuntikan
+- Denyut jantung lambat, tidak teratur, atau cepat
+- Tekanan darah meningkat atau menurun
+- Penglihatan buram atau penglihatan ganda
+- Pusing atau kantuk yang berat
+- Kulit dan bibir kebiruan
+- Pingsan
+- Gelisah
+- Sakit kepala
+- Tubuh terasa lelah dan lemah
+- Gerakan tubuh terganggu
+- Keringat berlebihan
+- Bingung atau gelisah
+- Henti napas atau sulit bernapas
+
+Peringatan:
+- Propofol hanya boleh digunakan di rumah sakit dan pemberiannya dilakukan oleh dokter anestesi atau petugas medis di bawah pengawasan dokter.
+- Hindari penggunaan propofol jika alergi terhadap propofol, telur, atau kacang kedelai.
+- Hindari penggunaan propofol pada pasien dengan gangguan metabolisme lemak.
+- Beri tahu dokter jika memiliki riwayat epilepsi, kejang, diabetes, gangguan paru, hiperkolesterolemia, gangguan pernapasan, stroke, penyakit ginjal, hipotensi, anemia, penyakit liver, atau penyakit jantung.
+- Beri tahu dokter jika sedang mengonsumsi obat, suplemen, atau produk herbal tertentu.
+- Beri tahu dokter jika sedang hamil, menyusui, atau merencanakan kehamilan.
+- Jangan mengemudikan kendaraan atau melakukan hal yang membutuhkan kewaspadaan setidaknya 24 jam setelah penggunaan propofol.
+- Hindari konsumsi minuman beralkohol setelah penggunaan propofol.
+- Laporkan ke dokter jika terjadi alergi obat, efek samping yang serius, atau overdosis setelah penggunaan propofol.
+
+Deskripsi:
+Propofol adalah obat bius umum yang digunakan untuk memulai dan mempertahankan anestesi selama prosedur operasi. Obat ini juga bisa digunakan sebagai obat penenang bagi pasien ICU yang menggunakan alat bantu napas (ventilator). Propofol bekerja dengan cara menurunkan aktivitas otak dan sistem saraf, sehingga mencegah otak untuk memproses rasa sakit. Propofol tersedia dalam bentuk sediaan suntik. Penyuntikannya hanya boleh dilakukan oleh dokter di rumah sakit.

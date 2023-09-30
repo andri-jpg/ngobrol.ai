@@ -1,0 +1,32 @@
+dosis: 
+- Tujuan: Tambahan pada anestesi umum
+  - Dewasa: Dosis awal 70–250 mcg/kgBB. Dosis pemeliharaan 100 mcg/kgBB setiap 15 menit.
+  - Anak-anak usia 2–6 bulan: Dosis awal 150 mcg/kgBB. Dosis pemeliharaan 100 mcg/kgBB setiap 6–9 menit.
+  - Anak-anak usia 7 bulan hingga 12 tahun: Dosis awal 200 mcg/kgBB. Dosis pemeliharaan 100 mcg/kgBB setiap 6–9 menit.
+
+- Tujuan: Neuromuscular block
+  - Dewasa: Infus dengan kecepatan 8–10 mcg/kgBB per menit.
+  - Anak-anak usia 2 bulan hingga 12 tahun: 11–14 mcg/kgBB per menit lewat infus.
+
+- Tujuan: Intubasi endotrakeal
+  - Dewasa: Dosis awal 150 mcg/kgBB, diikuti dengan dosis 100 mcg/kgBB 30 detik setelahnya.
+  - Anak-anak usia 2–12 tahun: 200 mg/kgBB.
+
+efek samping: 
+- Kemerahan dan rasa panas di wajah, leher, atau dada (flushing)
+- Nyeri pada area penyuntikan
+- Hipotensi ringan
+- Sesak napas atau mengi
+- Detak jantung cepat atau justru lambat
+
+peringatan:
+- Jangan menggunakan mivacurium jika Anda alergi dengan obat ini.
+- Perhatikan riwayat alergi yang Anda miliki.
+- Beritahu dokter jika Anda menderita penyakit jantung, gangguan fungsi hati atau ginjal, dan myasthenia gravis.
+- Beritahu dokter jika Anda memiliki defisiensi pseudocholinesterase, yang bisa ditandai dengan riwayat kelumpuhan atau kelemahan otot yang bertahan lama setelah operasi.
+- Beritahu dokter mengenai obat, suplemen, atau produk herbal apa pun yang sedang Anda konsumsi.
+- Beritahu dokter jika Anda sedang hamil, menyusui, atau merencanakan kehamilan.
+- Obat hanya boleh digunakan di rumah sakit.
+
+deskripsi: 
+Mivacurium adalah obat yang digunakan untuk menenangkan otot selama operasi atau saat pemasangan alat bantu pernapasan. Obat ini merupakan obat pelemas otot kerja cepat yang bekerja dengan cara menghambat asetilkolin, yaitu senyawa kimia pembawa sinyal yang membantu merangsang otot untuk berkontraksi. Dengan begitu, obat ini dapat menyebabkan kelumpuhan otot sementara. Obat ini hanya boleh diberikan oleh dokter di rumah sakit.

@@ -1,0 +1,9 @@
+Dosis:
+- Paracetamol: Dosis umumnya adalah 500-1000 mg setiap 4-6 jam, dengan batas dosis harian maksimal sebesar 4000 mg.
+- Aspirin: Dosis umumnya adalah 325-650 mg setiap 4-6 jam, dengan batas dosis harian maksimal sebesar 4000 mg.
+- Ibuprofen: Dosis umumnya adalah 200-400 mg setiap 4-6 jam, dengan batas dosis harian maksimal sebesar 1200-3200 mg.
+- Naproxen: Dosis umumnya adalah 220-550 mg setiap 8-12 jam, dengan batas dosis harian maksimal sebesar 1250 mg.
+- Ketoprofen: Dosis umumnya adalah 25-50 mg setiap 6-8 jam, dengan batas dosis harian maksimal sebesar 200 mg.
+- Diclofenac: Dosis umumnya adalah 25-50 mg setiap 8-12 jam, dengan batas dosis harian maksimal sebesar 150 mg.
+- Piroxicam: Dosis umumnya adalah 10-20 mg per hari.
+- Meloxicam: Dosis umumnya adalah 7.5-15 mg per hari

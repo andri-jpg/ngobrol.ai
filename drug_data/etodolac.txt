@@ -1,0 +1,30 @@
+dosis: 
+- Dosis untuk nyeri akut: 200-400 mg, setiap 6-8 jam sekali. Dosis maksimal 1.000 mg per hari.
+- Dosis untuk rheumatoid arthritis atau osteoarthritis: 600-1.000 mg yang dibagi ke dalam 2-3 kali jadwal konsumsi.
+
+efek samping:
+- Pusing
+- Sakit kepala
+- Kantuk
+- Mual atau muntah
+- Sakit perut
+- Sembelit atau malah diare
+- Kembung
+- Penglihatan buram
+
+peringatan:
+- Jangan mengonsumsi etodolac jika memiliki alergi terhadap obat ini atau obat golongan NSAID lain.
+- Beri tahu dokter jika Anda pernah mengalami perdarahan saluran cerna akibat konsumsi obat golongan NSAID.
+- Beri tahu dokter jika Anda akan atau baru saja menjalani operasi bypass jantung.
+- Etodolac tidak boleh digunakan pada kondisi tersebut.
+- Beri tahu dokter jika Anda pernah atau sedang menderita stroke, penyakit arteri perifer, kelainan pembuluh darah otak, penyakit jantung koroner, serangan jantung, atau gagal jantung.
+- Beri tahu dokter jika Anda pernah atau sedang menderita tukak lambung, ulkus duodenum, perdarahan saluran cerna, radang usus, penyakit liver, hipertensi, diabetes, penyakit ginjal, asma, polip hidung, anemia, gangguan perdarahan, atau lupus.
+- Beri tahu dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk mengantisipasi interaksi obat.
+- Beri tahu dokter jika Anda sedang hamil, berencana untuk hamil, mungkin hamil, atau sedang menyusui.
+- Jangan berkendara atau melakukan aktivitas lain yang membutuhkan kewaspadaan setelah menggunakan etodolac, karena obat ini bisa menyebabkan pusing, kantuk, dan penglihatan buram untuk sementara waktu.
+- Jangan merokok atau mengonsumsi minuman beralkohol selama menjalani pengobatan dengan etodolac, karena dapat meningkatkan risiko terjadinya perdarahan saluran cerna.
+- Jangan menggunakan NSAID lebih dari 10 hari, kecuali atas saran dari dokter.
+- Segera ke dokter jika Anda mengalami reaksi alergi obat atau efek samping yang serius setelah mengonsumsi etodolac.
+
+deskripsi:
+Etodolac adalah obat untuk meredakan nyeri ringan hingga sedang. Obat ini juga dapat digunakan untuk meringankan gejala radang sendi yang kronis, seperti rheumatoid arthritis atau osteoarthritis. Obat ini tersedia dalam bentuk kapsul yang dapat dibeli dengan resep dokter. Etodolac termasuk dalam golongan obat antiinflamasi nonsteroid (OAINS). Obat ini menghalangi kerja enzim yang

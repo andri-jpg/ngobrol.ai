@@ -1,0 +1,4 @@
+dosis: 10 mg 2 kali sehari
+efek samping: kantuk, haus, sakit kepala
+peringatan: tidak boleh dikonsumsi oleh orang yang memiliki alergi terhadap obat ini, hati-hati bagi mereka yang memiliki penyakit ginjal, penyakit jantung, penyakit liver, atau epilepsi
+deskripsi: Bepotastine adalah obat antihistamin generasi baru yang digunakan untuk mengatasi gejala alergi seperti rhinitis alergi atau biduran (urtikaria). Obat ini bekerja dengan menghambat kerja histamin di dalam tubuh, sehingga dapat meredakan reaksi alergi seperti ruam kulit yang gatal atau hidung meler dan tersumbat.

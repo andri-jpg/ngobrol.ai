@@ -1,0 +1,25 @@
+Dosis Golimumab:
+- Rheumatoid arthritis (suntikan IV pada orang dewasa): Dosis awal 2 mg/kgBB, diberikan melalui infus selama 30 menit. Dosis kedua diberikan 4 minggu kemudian, dan selanjutnya diberikan setiap 8 minggu.
+- Rheumatoid arthritis (suntikan SC pada orang dewasa): Dosis 50 mg, sebulan sekali pada tanggal yang sama. Untuk pasien dengan berat badan >100 kg, dosis yang dapat diberikan adalah 100 mg.
+- Ankylosing spondylitis, non-radiographic axial spondyloarthritis, psoriatic arthritis (suntikan SC pada orang dewasa): Dosis 50 mg, sebulan sekali pada tanggal yang sama. Untuk pasien dengan berat badan >100 kg, dosis yang dapat diberikan adalah 100 mg.
+- Juvenile idiopathic arthritis (suntik SC pada anak-anak dengan berat badan ≥40 kg): Dosis 50 mg, sebulan sekali pada tanggal yang sama.
+- Kolitis ulseratif (suntik SC pada orang dewasa): Dosis awal 200 mg, diikuti 100 mg setelah 2 minggu. Kemudian 50 mg untuk pasien dengan berat badan <80 kg, atau 100 mg untuk pasien dengan berat badan ≥80 kg, setiap 4 minggu.
+
+Efek samping Golimumab:
+- Nyeri, gatal, kemerahan, atau bengkak di area bekas suntikan
+- Pilek atau flu
+- Ruam pada kulit
+- Pusing
+- Sembelit
+- Tekanan darah tinggi
+
+Peringatan Golimumab:
+- Tidak boleh digunakan jika Anda alergi terhadap obat ini.
+- Beri tahu dokter tentang riwayat alergi yang Anda miliki.
+- Beri tahu dokter jika Anda pernah atau sedang menderita psoriasis, gagal jantung kongestif, limfoma, kanker kulit, multiple sklerosis, diabetes, sindrom Guillain-Barré, kelainan darah, HIV, tuberkulosis, atau hepatitis B.
+- Jangan melakukan vaksinasi tanpa persetujuan dokter, selama menggunakan golimumab, serta hindari kontak dengan orang yang sedang menderita penyakit infeksi yang mudah menular, seperti campak atau flu.
+
+Deskripsi Golimumab:
+Golimumab adalah obat yang digunakan untuk mengobati rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, atau kolitis ulseratif. Obat ini termasuk dalam jenis obat tumor necrosis factor (TNF) inhibitor, yang bekerja dengan menghambat efek TNF yang diproduksi tubuh saat terjadi peradangan. Dengan dihambatnya efek TNF, peradangan dapat mereda, sehingga kerusakan sel dan jaringan dapat diperlambat atau dicegah.
+
+

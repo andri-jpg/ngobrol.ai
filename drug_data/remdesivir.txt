@@ -1,0 +1,21 @@
+Dosis:
+- Untuk pasien COVID-19 dengan gejala berat: Dosis hari pertama 200 mg, dosis hari kedua dan seterusnya 100 mg.
+- Untuk pasien dengan risiko tinggi untuk mengalami perburukan gejala: Dosis hari pertama 200 mg, dosis hari kedua dan ketiga 100 mg.
+
+Efek samping:
+- Rasa nyeri, memar, bengkak, atau perdarahan pada area yang diinfus
+- Pusing
+- Jantung berdetak cepat (takikardia) atau lambat (bradikardia)
+- Demam
+- Mual atau muntah
+- Menggigil
+- Sesak napas
+
+Peringatan:
+- Tidak boleh digunakan oleh pasien yang memiliki alergi terhadap kandungan dalam obat ini.
+- Perlu berkonsultasi dengan dokter jika sedang menjalani cuci darah rutin, memiliki penyakit ginjal atau penyakit liver, sedang menggunakan obat lain, hamil, menyusui, atau merencanakan kehamilan.
+
+Deskripsi:
+Remdesivir adalah obat antivirus yang digunakan untuk menangani infeksi COVID-19. Obat ini bekerja dengan menghentikan perkembangan infeksi virus SARS-CoV-2 di dalam tubuh. Remdesivir dapat mempercepat waktu penyembuhan dan mengurangi risiko terjadinya kerusakan pada saluran pernapasan akibat infeksi COVID-19.
+
+

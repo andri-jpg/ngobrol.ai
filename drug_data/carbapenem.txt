@@ -1,0 +1,26 @@
+dosis : 
+- Doripenem: dosis tergantung pada jenis infeksi, tingkat keparahan, dan respons pasien. Biasanya diberikan melalui infus intravena selama 1 jam setiap 8 jam.
+- Imipenem-cilastatin: dosis tergantung pada jenis infeksi, tingkat keparahan, dan respons pasien. Biasanya diberikan melalui infus intravena selama 20-30 menit setiap 6-8 jam.
+- Meropenem: dosis tergantung pada jenis infeksi, tingkat keparahan, dan respons pasien. Biasanya diberikan melalui infus intravena selama 15-30 menit setiap 8 jam.
+- Ertapenem: dosis tergantung pada jenis infeksi, tingkat keparahan, dan respons pasien. Biasanya diberikan melalui suntikan intramuskular atau infus intravena selama 30 menit setiap 24 jam.
+- Biapenem: dosis tergantung pada jenis infeksi, tingkat keparahan, dan respons pasien. Biasanya diberikan melalui infus intravena selama 30-60 menit setiap 12 jam.
+
+efek samping :
+- Pusing
+- Sakit kepala
+- Mual atau muntah
+- Diare
+- Bengkak, kemerahan, atau nyeri di area suntikan
+
+peringatan :
+- Tidak boleh diberikan kepada pasien yang alergi terhadap obat ini atau golongan beta-laktam lain.
+- Harus berhati-hati jika memiliki riwayat penyakit ginjal, stroke, meningitis, cedera kepala, tumor otak, radang usus, atau kejang.
+- Harus berhati-hati jika sedang menggunakan obat antikejang seperti asam valproat atau sodium valproat.
+- Harus konsultasikan dengan dokter jika berencana melakukan vaksinasi selama menjalani pengobatan dengan carbapenem.
+- Harus memberi tahu dokter jika sedang hamil, menyusui, atau merencanakan kehamilan.
+- Harus memberi tahu dokter jika sedang menggunakan obat, suplemen, atau produk herbal.
+- Harus segera menghubungi dokter jika mengalami reaksi alergi obat atau efek samping yang lebih serius seperti kelelahan yang tak biasa, kram dan nyeri perut yang berat, telinga berdenging, diare berat atau berdarah, kejang, mudah memar, atau penyakit kuning.
+- Penggunaan obat dalam jangka panjang bisa meningkatkan risiko terjadinya infeksi jamur.
+
+deskripsi :
+Carbapenem adalah kelompok antibiotik yang digunakan untuk mengatasi infeksi bakteri gram-positif atau gram-negatif. Obat ini bekerja dengan menghambat pembentukan dinding sel bakteri. Carbapenem dapat digunakan untuk mengatasi infeksi pada saluran pernapasan dan paru, kulit, atau saluran kemih. Obat ini sering kali digunakan ketika infeksi bakteri sudah kebal terhadap beberapa jenis antibiotik. Carbapenem tersedia dalam bentuk suntik dan harus diberikan oleh dokter atau petugas medis di bawah pengawasan dokter. Beberapa jenis obat yang termasuk ke dalam antibiotik carbapenem antara lain biapenem, doripenem, ertapenem, imipenem-cilastatin, dan meropenem.

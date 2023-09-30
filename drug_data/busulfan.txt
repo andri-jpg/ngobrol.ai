@@ -1,0 +1,23 @@
+Dosis: Dosis busulfan yang biasa diberikan sebelum transplantasi sumsum tulang pada pasien chronic myelogenous leukemia (CML) adalah sebagai berikut:
+-Dewasa: 0,8 mg/kgBB
+-Anak-anak:
+   * Berat badan <9 kg: 1 mg/kgBB
+   * Berat badan 9–15,9 kg: 1,2 mg/kgBB
+   * Berat badan 16–23 kg: 1,1 mg/kgBB
+   * Berat badan 23,1–34 kg: 0,95 mg/kgBB
+   * Berat badan >34 kg: 0,8 mg/kgBB
+Busulfan diberikan selama 4 hari, dimulai sejak 7 hari sebelum transplantasi sumsum tulang. Dosis diberikan melalui infus pembuluh darah sentral setiap 6 jam sekali, selama 2 jam. Pada persiapan transplantasi sumsum tulang, pemberian busulfan dikombinasikan dengan obat kemoterapi lain, yaitu cyclophosphamide. Cyclophosphamide diberikan selama 2 hari, dimulai 24 jam setelah pemberian busulfan selesai.
+
+Efek samping: Beberapa efek samping yang mungkin timbul akibat penggunaan busulfan adalah mual, muntah, diare, sembelit, hilang nafsu makan, sariawan, sakit atau nyeri perut, pusing, bengkak di kaki, pergelangan kaki, dan tangan, rasa hangat di wajah, leher, atau dada (flushing), sakit kepala, sulit tidur.
+
+Peringatan: Beberapa peringatan yang perlu diperhatikan sebelum menggunakan busulfan adalah:
+- Tidak boleh digunakan pada pasien yang alergi terhadap busulfan atau obat kemoterapi lain.
+- Hindari kontak dengan orang yang sedang menderita penyakit infeksi, seperti flu, cacar air, atau campak.
+- Beri tahu dokter jika sebelumnya Anda pernah menjalani kemoterapi, radioterapi, atau transplantasi stem cell.
+- Beri tahu dokter jika Anda sedang hamil, mungkin hamil, merencanakan kehamilan, atau sedang menyusui.
+- Gunakan alat kontrasepsi selama mengonsumsi obat, hingga 6 bulan setelah dosis terakhir bagi perempuan atau 3 bulan bagi pria.
+- Jangan menjalani vaksinasi selama menjalani pengobatan dengan busulfan.
+- Beri tahu dokter jika sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk mengantisipasi interaksi obat.
+- Segera ke dokter bila mengalami reaksi alergi obat atau efek samping yang serius setelah menggunakan busulfan.
+
+Deskripsi: Busulfan adalah obat kemoterapi yang digunakan sebelum prosedur transplantasi sumsum tulang pada pasien chronic myelogenous leukemia. Obat ini bekerja dengan cara menghambat pembelahan sel sehingga pertumbuhan sel kanker dalam darah dapat diperlambat atau dihentikan. Setelah semua sel kanker hilang, pasien akan siap untuk menerima transplantasi sumsum tulang yang diharapkan dapat menghasilkan sel-sel darah baru yang sehat.

@@ -1,0 +1,11 @@
+dosis:
+- Dosis obat quinolone akan bervariasi tergantung pada jenis obat dan penyakit yang sedang diobati. Dosis yang tepat harus ditentukan oleh dokter sesuai dengan kondisi pasien.
+
+efek samping:
+- Efek samping umum setelah menggunakan obat quinolone meliputi mual atau muntah, sakit perut, diare atau sembelit, pusing, kantuk, sakit kepala, sulit tidur malam, penglihatan buram (pada penggunaan tetes mata), dan rasa tidak nyaman atau nyeri pada telinga (pada penggunaan tetes telinga). Jika efek samping ini tidak kunjung reda atau bertambah parah, segera periksakan ke dokter. Reaksi alergi obat atau overdosis juga dapat terjadi dan memerlukan penanganan medis segera.
+
+peringatan:
+- Quinolone tidak boleh digunakan oleh mereka yang alergi terhadap obat golongan ini. Quinolone juga tidak boleh diberikan kepada anak di bawah usia 18 tahun tanpa petunjuk dokter, karena berisiko menyebabkan kerusakan sendi, tendinitis, dan tendon robek. Penggunaan quinolone dapat menyebabkan efek samping yang cukup berbahaya, sehingga perlu perhatian khusus. Jangan mengemudikan kendaraan atau melakukan aktivitas yang membutuhkan kewaspadaan setelah menggunakan quinolone, karena obat ini bisa membuat penggunanya merasa pusing dan sulit berkonsentrasi.
+
+deskripsi:
+- Quinolone adalah golongan obat antibiotik yang digunakan untuk mengatasi berbagai penyakit akibat infeksi bakteri. Obat ini bekerja dengan cara menghambat enzim topoisomerase IV dan DNA gyrase yang diperlukan oleh bakteri untuk memperbanyak diri dan bertahan hidup. Quinolone merupakan antibiotik spektrum luas yang efektif membunuh berbagai jenis bakteri. Obat ini digunakan untuk mengobati penyakit seperti infeksi saluran kemih yang berat, pielonefritis, pneumonia, tuberkulosis, sinusitis atau bronkitis yang berat, infeksi kulit dan jaringan lunak, infeksi tulang dan sendi, infeksi saluran pencernaan termasuk demam tifoid, infeksi saluran empedu, infeksi aliran darah, prostatitis, infeksi mata atau telinga, penyakit radang panggul, infeksi menular seksual seperti gonore, dan penyakit pes serta anthrax.

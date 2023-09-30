@@ -1,0 +1,30 @@
+Dosis: 
+- Untuk hipertensi:
+  - Dewasa: Dosis awal 12,5 mg, 1 kali sehari selama 2 hari. Dosis lanjutan 25 mg, 1 kali sehari. Dosis maksimal 50 mg per hari.
+  - Lansia: 12,5 mg, 1 kali sehari. Dosis dapat ditingkatkan jika diperlukan setelah 2 minggu pengobatan.
+- Untuk angina stabil kronis:
+  - Dewasa: Dosis awal 12,5 mg, 2 kali sehari selama 2 hari pertama. Dosis lanjutan 25 mg, 2 kali sehari. Dosis maksimal 100 mg yang dibagi ke dalam 2 kali pemberian.
+  - Lansia: Dosis awal 12,5 mg, 2 kali sehari selama 2 hari pertama. Dosis lanjutan 25 mg, 2 kali sehari.
+- Untuk gangguan fungsi ventrikel kiri setelah serangan jantung:
+  - Dewasa: Dosis awal 6,25 mg, 2 kali sehari. Setelah lewat 3-10 hari, dosis bisa ditingkatkan menjadi 12,5 mg, 2 kali sehari. Dosis bisa ditingkatkan hingga 25 mg, 2 kali sehari.
+- Untuk gagal jantung:
+  - Dewasa: Dosis awal 3,125 mg, 2 kali sehari, selama 2 minggu atau lebih. Dosis dapat ditingkatkan bertahap menjadi 6,25 mg, 2 kali sehari, setiap 2 minggu pengobatan. Dosis maksimal untuk berat badan (BB) <85 kg adalah 25 mg, 2 kali sehari, dosis maksimal untuk BB >85 kg 50 mg, 2 kali sehari.
+
+Efek Samping:
+- Rasa lelah atau lemas
+- Pusing, sakit kepala, kantuk
+- Tangan dan kaki terasa dingin, mati rasa, atau kesemutan
+- Mata kering atau gangguan penglihatan
+- Gangguan tidur
+- Diare
+- Disfungsi ereksi
+
+Peringatan:
+- Jangan mengonsumsi carvedilol jika memiliki alergi terhadap obat ini.
+- Hindari penggunaan carvedilol jika memiliki asma, AV blok, bradikardia berat, atau gagal jantung berat yang membutuhkan terapi berkelanjutan dengan obat tertentu.
+- Diskusikan dengan dokter jika pernah atau baru saja mengalami serangan jantung atau syok kardiogenik.
+- Beri tahu dokter jika memiliki riwayat penyakit jantung, hipertiroidisme, diabetes, rendahnya kadar gula darah, sindrom Raynaud, penyakit ginjal, penyakit arteri perifer, penyakit liver, PPOK, myasthenia gravis, katarak, atau glaukoma.
+- Informasikan kepada dokter jika sedang menggunakan obat, suplemen, atau produk herbal tertentu.
+- Konsultasikan dengan dokter jika sedang hamil, menyusui, atau merencanakan kehamilan.
+- Berhati-hatilah saat mengemudi atau melakukan kegiatan yang membutuhkan kewaspadaan setelah mengonsumsi carvedilol, karena obat ini dapat menyebabkan pusing, kantuk, atau bahkan pingsan.
+- Hindari mengonsumsi minuman beralkohol atau merokok selama menjalani pengobatan dengan carvedilol, karena dapat meningkatkan risiko terjadinya ef

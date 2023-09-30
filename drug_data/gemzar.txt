@@ -1,0 +1,34 @@
+Dosis: Dosis Gemzar akan ditentukan oleh dokter berdasarkan kondisi, luas permukaan tubuh (m²), dan respons tubuh pasien. Secara umum, dosis Gemzar adalah sebagai berikut:
+- Pengobatan kanker pankreas: Dewasa: 1000 mg/m², 1 kali per minggu, sebanyak 7 kali berturut-turut. Setelah itu diberikan jeda 1 minggu tanpa obat setiap melewati 3 kali terapi.
+- Pengobatan kanker paru: Dewasa: 1000–1250 mg/m², 1 kali per minggu, dengan jeda 1 minggu tanpa obat setiap melewati 2–3 kali terapi. Terapi dikombinasikan dengan cisplatin.
+- Pengobatan kanker payudara: Dewasa: 1250 mg/m², 1 kali per minggu, dengan jeda 1 minggu tanpa obat setiap 2 kali terapi. Pengobatan dikombinasikan dengan paclitaxel.
+- Pengobatan kanker ovarium: Dewasa: 1000 mg/m², 1 kali per minggu, dengan jeda 1 minggu tanpa obat setiap 2 kali terapi. Terapi dikombinasikan dengan carboplatin.
+- Pengobatan kanker kandung kemih: Dewasa: 1000 mg/m², 1 kali per minggu, dengan jeda 1 minggu tanpa obat setiap 3 kali terapi. Pengobatan dikombinasikan dengan cisplatin.
+Dosis Gemzar bisa diturunkan pada setiap terapi lanjutan, tergantung pada respons tubuh pasien.
+
+Efek samping: Beberapa efek samping yang mungkin timbul akibat penggunaan Gemzar adalah:
+- Mual atau muntah
+- Jumlah sel darah rendah
+- Sembelit
+- Nafsu makan menurun
+- Sariawan
+- Rambut rontok
+- Sakit kepala
+- Nyeri otot
+
+Peringatan: Sebelum menggunakan Gemzar, perhatikan hal-hal berikut:
+- Beri tahu dokter riwayat alergi yang Anda miliki. Gemzar tidak boleh digunakan oleh orang yang memiliki alergi terhadap gemcitabine.
+- Beri tahu dokter jika Anda pernah atau sedang menderita penyakit ginjal, gangguan liver (terutama sirosis), atau penyakit jantung.
+- Informasikan kepada dokter jika Anda pernah atau sedang menjalani radioterapi.
+- Beri tahu dokter jika Anda sedang hamil, menyusui, atau sedang merencanakan kehamilan.
+- Gunakan alat kontrasepsi selama menjalani terapi dengan Gemzar, hingga 6 bulan setelah selesai terapi bagi wanita dan 3 bulan bagi pria.
+- Jangan langsung mengemudi atau melakukan aktivitas lain yang memerlukan kewaspadaan setelah menggunakan Gemzar, karena obat ini dapat menyebabkan kantuk.
+- Konsultasikan kepada dokter sebelum melakukan vaksinasi apa pun selama menjalani pengobatan dengan Gemzar.
+- Hindari juga kontak dengan orang yang baru saja menjalani vaksinasi dengan vaksin hidup, seperti vaksin polio atau campak.
+- Hindari aktivitas seperti olahraga dengan adu fisik dan hati-hati saat memakai benda tajam atau benda yang berisiko menyebabkan luka.
+- Informasikan kepada dokter bahwa Anda sedang menggunakan Gemzar jika direncanakan untuk menjalani tindakan medis apa pun, termasuk operasi gigi.
+- Informasikan kepada dokter jika Anda sedang menggunakan obat lain, termasuk suplemen dan produk herbal, untuk menghindari interaksi obat yang tidak diinginkan.
+
+Deskripsi: Gemzar adalah obat kemoterapi yang digunakan untuk mengatasi beberapa jenis kanker, seperti kanker di paru-paru, pankreas, payudara, atau ovarium. Gemzar mengandung gemcitabine yang merupakan obat golongan antikanker. Obat ini bekerja dengan cara menyerang materi genetik sel kanker sehingga kanker tidak bisa tumbuh dan menyebar. Gemzar diberikan melalui infus dan penggunaannya akan dipantau ketat oleh dokter. Gemzar dapat digunakan bersama dengan obat kemoterapi lain, tergantung kondisi yang ditangani. Obat ini merupakan obat resep dan termasuk dalam kategori obat kemoterapi. 
+
+

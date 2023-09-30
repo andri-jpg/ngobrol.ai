@@ -1,0 +1,20 @@
+dosis:
+- Dosis untuk infeksi: 960 mg, 2 kali sehari. Dosis untuk infeksi berat 2.880 mg per hari yang dibagi ke dalam 2 jadwal konsumsi.
+- Dosis untuk pneumonia pneumocystis: Dosis hingga 120 mg/kg berat badan (BB), dibagi dalam 2-4 jadwal konsumsi.
+- Dosis untuk mencegah pneumonia pneumocystis: Dosis dapat bervariasi tergantung pada usia.
+- Dosis untuk anak-anak: Dosis tergantung pada usia, mulai dari 240 mg hingga 480 mg, 2 kali sehari.
+
+efek samping:
+- Efek samping umum: mual, muntah, diare, kehilangan selera makan.
+- Efek samping yang serius: kelemahan otot, perubahan suasana hati, gangguan ginjal, kantuk berat, hipoglikemia, diare berdarah, reaksi alergi serius.
+
+peringatan:
+- Tidak boleh digunakan oleh orang yang alergi terhadap sulfamethoxazole atau trimethoprim.
+- Perhatikan jika memiliki riwayat trombositopenia, anemia megaloblastik, penyakit hati, atau ginjal.
+- Konsultasikan dengan dokter sebelum menggunakan obat ini jika sedang hamil, menyusui, atau merencanakan kehamilan.
+- Hindari paparan sinar matahari langsung dalam jangka waktu lama selama menjalani pengobatan dengan cotrimoxazole.
+- Beri tahu dokter jika sedang mengonsumsi obat, suplemen, atau produk herbal tertentu.
+- Jangan menghentikan pengobatan lebih awal tanpa konsultasi dengan dokter.
+
+deskripsi:
+Cotrimoxazole (kotrimoksazol) adalah obat kombinasi yang terdiri dari trimethoprim dan sulfamethoxazole. Obat ini digunakan untuk mengobati penyakit akibat infeksi bakteri seperti bronkitis, infeksi telinga tengah, infeksi saluran kemih, dan pneumonia pneumocystis. Cotrimoxazole bekerja dengan menghentikan pertumbuhan bakteri. Obat ini tidak dapat mengobati penyakit akibat infeksi virus seperti pilek dan flu. Cotrimoxazole tersedia dalam bentuk tablet, kaplet, dan suspensi. Obat ini termasuk dalam kategori antibiotik sulfonamida.

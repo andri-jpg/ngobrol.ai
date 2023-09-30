@@ -1,0 +1,27 @@
+dosis:
+- Untuk hepatitis B kronis: 180 mcg, sekali seminggu, selama 48 minggu.
+- Untuk hepatitis C kronis: 180 mcg, sekali seminggu, selama 48 minggu, sebagai pengobatan tunggal atau dikombinasikan dengan ribavirin.
+
+efek samping:
+- Sakit kepala atau pusing
+- Kelelahan
+- Demam, menggigil, atau nyeri otot
+- Mual, muntah, hilang nafsu makan
+- Diare
+- Mulut kering
+- Insomnia
+- Bengkak, merah di tempat suntikan
+- Rambut rontok
+
+peringatan:
+- Obat dapat memengaruhi janin, jadi hanya boleh digunakan jika manfaatnya lebih besar daripada risiko terhadap janin.
+- Tidak diketahui apakah obat ini dapat terkandung dalam ASI atau tidak, jadi konsultasikan dengan dokter sebelum menggunakan obat ini saat menyusui.
+- Beri tahu dokter tentang riwayat alergi, penyakit hati, penyakit jantung, HIV/AIDS, hipertensi, PPOK, diabetes, penyakit tiroid, kolitis, kelainan darah, penyakit ginjal, pankreatitis, trigliserida tinggi, atau penyakit autoimun yang Anda alami.
+- Beri tahu dokter jika Anda sedang hamil, menyusui, atau merencanakan kehamilan.
+- Gunakan alat kontrasepsi selama menjalani pengobatan dengan obat ini.
+- Beri tahu dokter jika Anda sedang mengonsumsi obat, suplemen, atau produk herbal tertentu.
+- Segera hubungi dokter jika mengalami overdosis, reaksi alergi obat, atau efek samping yang lebih serius setelah menggunakan obat ini.
+- Tidak boleh mengemudi atau melakukan kegiatan yang membutuhkan kewaspadaan selama menjalani pengobatan dengan obat ini.
+
+deskripsi:
+Peginterferon alfa-2a adalah obat antivirus golongan interferon yang digunakan untuk menangani hepatitis B kronis dan hepatitis C kronis. Obat ini bekerja dengan cara mengurangi jumlah virus hepatitis di dalam tubuh dan meningkatkan respons sistem kekebalan tubuh untuk melawan infeksi. Obat ini bisa digunakan sebagai pengobatan tunggal atau dikombinasikan dengan obat antivirus lain, seperti ribavirin. Obat ini hanya boleh digunakan sesuai resep dokter. Merek dagang peginterferon alfa-2a adalah Pegasys.

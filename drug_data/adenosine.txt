@@ -1,0 +1,23 @@
+dosis : 
+- Tujuan: Membantu proses myocardial imaging 
+   - Dewasa: 140 mcg/kgBB/menit selama 6 menit, diberikan melalui infus. Dosis maksimal 0,84 mg/kgBB.
+- Tujuan: Pengobatan takikardia supraventrikular 
+   - Dewasa: Dosis awal 3 mg disuntikkan dengan cepat, selama 2 detik ke vena perifer besar atau vena sentral. Jika diperlukan, bisa diberikan dosis tambahan sebanyak 6 mg setelah 1-2 menit, kemudian dilanjutkan dengan dosis tambahan sebanyak 12 mg, 2 kali, setelah 1-2 menit.
+   - Anak-anak dengan berat badan kurang dari 50 kg: Dosis awal 50-100 mcg/kgBB, kemudian dosis dapat ditambahkan sebanyak 50-100 mcg/kgBB setelah 1-2 menit, sampai irama jantung teratur. Dosis maksimal 300 mcg/kgBB.
+
+efek samping :
+- Wajah, dada, atau leher, terasa hangat dan memerah (flushing)
+- Sesak napas atau napas pendek
+- Mual
+- Pusing atau sakit kepala
+- Pegal atau sakit di leher atau rahang
+
+peringatan :
+- Adenosine tidak boleh digunakan oleh pasien yang alergi terhadap obat ini.
+- Adenosine tidak boleh diberikan kepada pasien dengan riwayat asma, sick sinus syndrome, sindrom pemanjangan QT, atau AV blok.
+- Adenosine tidak boleh diberikan kepada pasien dengan kondisi jantung, hipotensi, serangan jantung, denyut jantung lambat (bradikardia), penyakit paru obstruktif kronis (PPOK), kejang, atau nyeri dada angina.
+- Adenosine hanya boleh digunakan oleh ibu hamil jika besarnya manfaat yang diharapkan melebihi besarnya risiko terhadap janin.
+- Adenosine belum diketahui terserap ke dalam ASI atau tidak. Bila Anda sedang menyusui, jangan menggunakan obat ini tanpa berkonsultasi dulu dengan dokter.
+
+deskripsi :
+Adenosine adalah obat yang digunakan untuk membantu proses pemeriksaan radiologi jantung pada pasien yang tidak mampu beraktivitas dengan normal. Obat ini juga terkadang digunakan dalam pengobatan gangguan irama jantung tertentu, seperti takikardia supraventrikular. Adenosine memiliki efek vasodilator (melebarkan pembuluh darah) jantung yang kuat, sehingga aliran darah lebih lancar. Selain itu, adenosine juga memengaruhi aktivitas kelistrikan di jantung, sehingga bisa membantu mengembalikan keteraturan irama jantung. Merek dagang adenosine: Bio ATP, Lapibion, Neuro ATP, Vitap, Pro ATP.
