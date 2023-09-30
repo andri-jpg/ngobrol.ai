@@ -1,8 +1,0 @@
-Dosis obat bupropion:
-- Dosis untuk mengobati depresi pada dewasa: Dosis awal 100 mg, 2 kali sehari selama 3 hari. Dosis maksimal 150 mg, 3 kali sehari.
-- Dosis untuk mengobati depresi pada lansia: Dosis akan ditentukan berdasarkan kondisi dan respons pasien.
-- Dosis untuk menghentikan kebiasaan merokok pada dewasa: Dosis awal 150 mg, 1 kali sehari selama 6 hari. Dosis lanjutan 150 mg, 2 kali sehari selama 7-9 minggu. Dosis maksimal 300 mg per hari.
-- Dosis untuk menghentikan kebiasaan merokok pada lansia: Dosis 150 mg, 1 kali sehari selama 7-9 minggu.
-
-Efek samping obat bupropion:
-Mulut kering, sakit tenggorokan, hidung tersumbat, telinga berdenging, penglihatan buram, mual, muntah, sakit perut, hilang nafsu makan, sembelit, gangguan tidur, tremor, keringat berlebih, cemas, grogi, detak jantung cepat, linglung, mudah marah, ruam kulit, peningkatan frekuensi buang air kecil, sakit kepala, pusing, nyeri otot atau sendi

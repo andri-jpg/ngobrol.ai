@@ -1,8 +1,0 @@
-Dosis: 
-- Idiopatik trombositopenia purpura (ITP):
-  - Dewasa dan anak usia ≥6 tahun: Dosis awal 50 mg, 1 kali sehari.
-  - Anak usia 1–5 tahun: Dosis awal 25 mg, 1 kali sehari.
-  - Dosis dapat disesuaikan agar jumlah trombosit pasien mencapai ≥50.000 sel/mcL. Dosis maksimal adalah 75 mg per hari.
-
-- Anemia aplastik berat:
-  - Dewasa: Dosis awal 50 mg, 1

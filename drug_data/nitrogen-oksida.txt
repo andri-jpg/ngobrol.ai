@@ -1,7 +1,0 @@
-Dosis: Tidak dapat memberikan informasi mengenai dosis obat karena tidak diketahui obat apa yang dimaksud.
-
-Efek samping: Tidak dapat memberikan informasi mengenai efek samping obat karena tidak diketahui obat apa yang dimaksud.
-
-Peringatan: Tidak dapat memberikan informasi mengenai peringatan obat karena tidak diketahui obat apa yang dimaksud.
-
-Deskripsi: Tidak dapat memberikan informasi mengenai deskripsi obat karena tidak diketahui obat apa yang dimaksud.

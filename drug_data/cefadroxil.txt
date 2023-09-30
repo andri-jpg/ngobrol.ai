@@ -1,6 +1,0 @@
-dosis: Dosis cefadroxil akan ditentukan oleh dokter berdasarkan usia, berat badan, atau kondisi yang ingin ditangani. Secara umum, dosis cefadroxil tergantung kondisi seperti:
-- Faringitis atau tonsilitis akibat infeksi Streptococcus: Dewasa atau anak dengan berat badan (BB) >40 kg: 1.000 mg, 1 kali sehari atau 500 mg, 2 kali sehari, selama minimal 10 hari. Anak dengan BB <40 kg: 30 mg/kgBB per hari, yang dibagi dalam 1-2 jadwal konsumsi, selama minimal 10 hari.
-- Infeksi kulit dan jaringan lunak atau infeksi saluran kemih: Dewasa atau anak dengan BB >40 kg: 1.000-2.000 mg per hari yang dibagi ke dalam 1-2 jadwal konsumsi. Anak usia ≥6 tahun dengan BB <40 kg: 30-50 mg/kgBB per hari yang dibagi dalam 1-2 jadwal konsumsi. Dosis maksimal 100 mg/kgBB per hari.
-- Pencegahan endokarditis setelah prosedur operasi gigi atau tindakan medis khusus pada saluran pernapasan atas: Dewasa: 2.000 mg per hari, dikonsumsi 1 jam sebelum operasi atau tindakan dilakukan. Anak-anak: 50 mg/kgBB per hari, dikonsumsi 1 jam sebelum operasi atau tindakan dilakukan. Dosis maksimal 2.000 mg.
-
-efek samping: Beberapa efek samping yang mungkin muncul setelah mengonsumsi cefadroxil adalah mual atau muntah, sakit perut, dan diare. Lakukan pemeriksaan ke dokter jika efek samping tersebut tidak kunjung mereda

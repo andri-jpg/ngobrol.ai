@@ -1,7 +1,0 @@
-dosis: Dosis vaksin Novavax adalah 0,5 ml yang disuntikkan sebanyak 2 kali dengan jarak 21 hari.
-
-efek samping: Efek samping yang mungkin muncul setelah vaksinasi Novavax antara lain: kemerahan, bengkak, atau nyeri pada tempat suntikan, demam, meriang, kelelahan, nyeri otot, mual, sakit kepala, dan muntah.
-
-peringatan: Beberapa hal yang perlu diperhatikan sebelum menerima vaksin Novavax adalah riwayat alergi, tidak boleh diberikan kepada orang yang alergi terhadap kandungan dalam vaksin ini, informasikan jika sedang hamil, merencanakan kehamilan, atau sedang menyusui, informasikan penggunaan obat lain termasuk suplemen atau produk herbal, beri tahu jika sedang menderita ISPA, kelemahan pada sistem kekebalan tubuh, demam, diabetes, hipertensi, penyakit autoimun, penyakit ginjal, penyakit paru, penyakit jantung, atau kelainan darah, beri tahu juga jika Anda adalah penyintas COVID-19, segera temui dokter jika terjadi reaksi alergi setelah menggunakan vaksin Novavax.
-
-deskripsi: Vaksin Novavax atau NVX-CoV2372 adalah vaksin yang digunakan untuk mencegah infeksi virus SARS-CoV-2 penyebab COVID-19. Vaksin ini mengandung protein subunit yang dibuat khusus untuk menyerupai protein alami pada virus Corona. Setelah disuntikkan ke dalam tubuh, protein tersebut akan memicu tubuh untuk menghasilkan antibodi untuk melawan virus Corona. Vaksin ini juga mengandung matrix-M yang ditambahkan untuk meningkatkan respon sistem kekebalan tubuh dan kadar antibodi. Menurut hasil uji klinis fase 3, vaksin Novavax memiliki efikasi sebesar 89,3%.

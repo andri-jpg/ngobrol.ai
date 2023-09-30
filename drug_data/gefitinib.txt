@@ -1,9 +1,0 @@
-Dosis: Dosis gefitinib untuk mengobati kanker paru-paru jenis non-small cell lung cancer adalah 250 mg, 1 kali sehari.
-
-Efek samping: Beberapa efek samping yang mungkin terjadi setelah menggunakan gefitinib adalah diare, jerawat, kulit kering, sariawan, hilang nafsu makan, lelah yang tidak biasa atau rasa lemas yang memberat, rambut rontok, mual atau muntah.
-
-Peringatan: Sebelum mengonsumsi gefitinib, perlu diperhatikan beberapa hal, yaitu riwayat alergi, kehamilan atau menyusui, penyakit hati atau hepatitis B, penyakit ginjal, gangguan penglihatan, tukak lambung, fibrosis paru, kanker lain, divertikulitis, atau sumbatan usus.
-
-Deskripsi: Gefitinib adalah obat antikanker golongan penghambat protein kinase yang digunakan untuk mengobati kanker paru-paru jenis non-small cell lung cancer yang telah menyebar ke bagian tubuh lainnya. Obat ini bekerja dengan menghambat fungsi enzim tirosin kinase, sehingga pertumbuhan dan penyebaran sel kanker bisa dihentikan. Obat ini hanya boleh digunakan dengan resep dokter.
-
-Apabila terdapat informasi lain yang seharusnya dimasukkan dalam output tersebut, silahkan berikan dalam format yang lebih spesifik.
