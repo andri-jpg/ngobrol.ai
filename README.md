@@ -1,6 +1,7 @@
 # ngobrol_ai
 
-A new Flutter project.
+Offline chatbot on android
+(WIP)
 
 ## Getting Started
 
