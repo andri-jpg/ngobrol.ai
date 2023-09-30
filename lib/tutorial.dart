@@ -87,11 +87,13 @@ class TutorialPage extends StatelessWidget {
             onPressed: () async {
               const script = '''
 pkg update -y
-pkg install -y cronie build-essential binutils rust python python-pip wget git
+pkg install -y build-essential binutils rust python python-pip wget git
+
 wget https://huggingface.co/AndriLawrence/gpt2-chatkobi-ai/resolve/main/ngobrol.bin
 wget https://huggingface.co/AndriLawrence/gpt2-chatkobi-ai/resolve/main/ngobrol.meta
-wget https://raw.githubusercontent.com/andri-jpg/termux-fa/main/requirements.txt
-wget https://raw.githubusercontent.com/andri-jpg/termux-fa/main/ngobrol.py
+wget https://raw.githubusercontent.com/andri-jpg/ngobrol.ai/main/termux/requirements.txt
+wget https://raw.githubusercontent.com/andri-jpg/ngobrol.ai/main/termux/ngobrol.py
+
 echo 'python ngobrol.py' > script.sh
 chmod +x script.sh
 pip install -r requirements.txt
@@ -112,8 +114,8 @@ pkg install -y build-essential binutils rust python python-pip wget git
 
 wget https://huggingface.co/AndriLawrence/gpt2-chatkobi-ai/resolve/main/ngobrol.bin
 wget https://huggingface.co/AndriLawrence/gpt2-chatkobi-ai/resolve/main/ngobrol.meta
-wget https://raw.githubusercontent.com/andri-jpg/termux-fa/main/requirements.txt
-wget https://raw.githubusercontent.com/andri-jpg/termux-fa/main/ngobrol.py
+wget https://raw.githubusercontent.com/andri-jpg/ngobrol.ai/main/termux/requirements.txt
+wget https://raw.githubusercontent.com/andri-jpg/ngobrol.ai/main/termux/ngobrol.py
 
 echo 'python ngobrol.py' > script.sh
 chmod +x script.sh

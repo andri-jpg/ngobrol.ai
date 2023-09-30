@@ -1,0 +1,3 @@
+llm-rs
+fastapi
+uvicorn
