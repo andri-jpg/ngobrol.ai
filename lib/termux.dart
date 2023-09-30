@@ -10,8 +10,8 @@ class TermuxRun extends StatelessWidget {
 
   Future<void> _launchTermux() async {
     const url = 'https://play.google.com/store/apps/details?id=com.termux';
-    if (await canLaunchUrl(url as Uri)) {
-      await launchUrl(url as Uri);
+    if (await canLaunchUrl(Uri.parse(url))) {
+      await launchUrl(Uri.parse(url));
     } else {
       throw 'Tidak dapat membuka Termux';
     }

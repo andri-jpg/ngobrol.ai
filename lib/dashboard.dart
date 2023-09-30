@@ -21,11 +21,11 @@ class Dashboard extends StatelessWidget {
               ),
             ),
           ),
-          BlurAppBar(), 
+          const BlurAppBar(), 
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              const SizedBox(height: 295.0),
+              const SizedBox(height: 220.0),
               _buildMenuItem(context, 'Ngobrol', Icons.chat, const ChatScreen()),
               _buildMenuItem(context, 'About', Icons.info, const About()),
               _buildMenuItem(context, 'Config', Icons.bolt, const ConfigPage()),
@@ -53,8 +53,7 @@ class Dashboard extends StatelessWidget {
             icon: Icon(icon),
             label: Text(label),
             style: ElevatedButton.styleFrom(
-              primary: Colors.transparent,
-              onPrimary: Colors.white,
+              foregroundColor: Colors.white, backgroundColor: Colors.transparent,
               elevation: 1,
               padding: const EdgeInsets.symmetric(vertical: 16.0),
               minimumSize: const Size(double.infinity, 0),
@@ -78,8 +77,8 @@ class BlurAppBar extends StatelessWidget {
       child: BackdropFilter(
         filter: ImageFilter.blur(sigmaX: 5.0, sigmaY: 5.0),
         child: Container(
-          height: 80.0, // Sesuaikan dengan tinggi yang Anda inginkan
-          color: Colors.black.withOpacity(0.5), // Warna latar belakang dengan efek blur
+          height: 80,
+          color: Colors.black.withOpacity(0.29),
           child: const Center(
             child: Text(
               'Ngobrol.AI',

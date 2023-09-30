@@ -46,8 +46,8 @@ class TutorialPage extends StatelessWidget {
             InkWell(
               onTap: () async {
                 const url = 'https://f-droid.org/repo/com.termux_118.apk'; 
-                if (await canLaunchUrl(url as Uri)) {
-                  await launchUrl(url as Uri);
+                if (await canLaunchUrl(Uri.parse(url))) {
+                  await launchUrl(Uri.parse(url));
                   } else {
                     throw 'Tidak dapat membuka tautan $url';
                     }
