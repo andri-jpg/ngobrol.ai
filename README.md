@@ -1,4 +1,4 @@
-# spc_app
+# ngobrol_ai
 
 A new Flutter project.
 

@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Ngobrol.AI',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor:Color.fromARGB(255, 121, 237, 251)),
+        colorScheme: ColorScheme.fromSeed(seedColor:const Color.fromARGB(255, 121, 237, 251)),
         useMaterial3: true,
       ),
       home: const SplashScreen(),
