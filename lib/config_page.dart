@@ -1,11 +1,9 @@
-// ignore_for_file: use_build_context_synchronously
-
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:ngobrol.ai/dashboard.dart';
 import 'config.dart';
+import 'shared.dart';
 
 class ConfigPage extends StatefulWidget {
   const ConfigPage({Key? key}) : super(key: key);
@@ -16,13 +14,26 @@ class ConfigPage extends StatefulWidget {
 
 class _ConfigPageState extends State<ConfigPage> {
   bool isOkButtonDisabled = false;
-  final TextEditingController memoryController = TextEditingController(text: '');
-  final TextEditingController userController = TextEditingController(text: 'User');
-  final TextEditingController aiController = TextEditingController(text: 'AI');
+  final TextEditingController memoryController = TextEditingController();
+  final TextEditingController userController = TextEditingController();
+  final TextEditingController aiController = TextEditingController();
   double pValue = 0.88;
   int kValue = 5;
   double tValue = 0.78;
   String _responseMessage = '';
+
+  @override
+  void initState() {
+    super.initState();
+
+    // Mengambil nilai dari SharedPreferences dan menginisialisasi state
+    memoryController.text = AppSettings.memory;
+    userController.text = AppSettings.user;
+    aiController.text = AppSettings.ai;
+    pValue = AppSettings.pValue;
+    kValue = AppSettings.kValue;
+    tValue = AppSettings.tValue;
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -129,6 +140,14 @@ class _ConfigPageState extends State<ConfigPage> {
       ).timeout(const Duration(seconds: 20));
 
       if (response.statusCode == 200) {
+        // Update nilai-nilai di SharedPreferences setelah berhasil mengirim data
+        AppSettings.memory = memoryController.text;
+        AppSettings.user = userController.text;
+        AppSettings.ai = aiController.text;
+        AppSettings.pValue = pValue;
+        AppSettings.kValue = kValue;
+        AppSettings.tValue = tValue;
+
         setState(() {
           _responseMessage = 'Berhasil mengirim data ke server.';
         });

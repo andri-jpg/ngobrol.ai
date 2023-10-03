@@ -8,7 +8,13 @@ from llm_rs import SessionConfig, GenerationConfig, Gpt2
 class Chainer:
 
     def __init__(self):
-        self.stop_words = ['<EOL>', '<eol>', '<Eol>', 'pertanyaan :', 'Human', 'human', 'Pertanyaan', '\n']
+        self.memory = ''
+        self.user = 'User'
+        self.ai = 'AI'
+        self.p = 0.78
+        self.k = 6
+        self.t = 0.78
+        self.stop_words = ['<EOL>', f'{self.user}:',f'{self.ai}:',f'{self.user} :',f'{self.ai} :' '\n']
         self.previous_qa = []
 
         session_config = SessionConfig(
@@ -17,23 +23,22 @@ class Chainer:
             prefer_mmap=False
         )
 
-        self.memory = ''
-        self.user = 'User'
-        self.ai = 'AI'
-        self.p = 0.62
-        self.k = 3
-        self.t = 0.88
+
 
         self.generation_config = GenerationConfig(
             top_p=self.p,
             top_k=self.k,
             temperature=self.t,
             max_new_tokens=600,
-            repetition_penalty=1.1,
+            repetition_penalty=1.16,
             stop_words=self.stop_words
         )
 
-        self.model = Gpt2("ngobrol.bin", session_config=session_config)
+        self.model = Gpt2("2023_SAFE.bin", session_config=session_config)
+        self.words_clean = ["<EOL", "<br>", f'\n{self.user}', f'\n{self.ai}']
+
+    def word_list(self):
+        return self.words_clean
 
     def update_config(self, memory, user, ai, p, k, t):
         self.memory = memory
@@ -48,7 +53,7 @@ class Chainer:
         if self.previous_qa:
             previous_question, previous_answer = self.previous_qa[-1]
         else:
-            previous_question, previous_answer = "", ""
+            previous_question, previous_answer = "halooo", "iyaaa ada apa ya?"
 
         template = f"{self.memory}\n{self.user}:\n{previous_question}\n\n{self.ai}:\n{previous_answer}\n\n{self.user}: {user_input}.\n{self.ai}:"
         result = self.model.generate(template, generation_config=self.generation_config)
@@ -69,7 +74,7 @@ generator = Chainer()
 origins = ["*"] 
 
 app = FastAPI()
-
+words_clean = generator.word_list()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -79,7 +84,7 @@ app.add_middleware(
 )
 
 generator = Chainer()
-words_clean = ["<EOL", "<br>"]
+
 
 def clean_res(result):
     cleaned_result = result

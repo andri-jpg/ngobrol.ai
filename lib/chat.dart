@@ -158,11 +158,73 @@ class _ChatScreenState extends State<ChatScreen> with SingleTickerProviderStateM
     );
   }
 
+  void _showErrorDialog(String message) {
+  showDialog(
+    context: context,
+    builder: (BuildContext context) {
+      return AlertDialog(
+        title: const Text("Kesalahan"),
+        content: Text(message),
+        actions: <Widget>[
+          TextButton(
+            onPressed: () {
+
+              Navigator.pop(context);
+            },
+            child: const Text("OK"),
+          ),
+        ],
+      );
+    },
+  );
+}
+  Future<void> _restartApp() async {
+    setState(() {
+      _isLoading = true;
+    });
+
+    final restartUrl = Uri.parse('http://0.0.0.0:8089/handleinput');
+    final restartRequestBody = {'input': 'restart'};
+
+    try {
+      final restartResponse = await http.post(
+        restartUrl,
+        body: jsonEncode(restartRequestBody),
+        headers: {'Content-Type': 'application/json'},
+      ).timeout(const Duration(seconds: 40));
+
+      if (restartResponse.statusCode == 200) {
+        // Reload halaman ChatScreen
+        Navigator.of(context).pushReplacement(
+          MaterialPageRoute(
+            builder: (context) => const ChatScreen(),
+          ),
+        );
+      } else {
+        // Handle jika permintaan 'restart' gagal
+        _showErrorDialog('Gagal memulai ulang aplikasi');
+      }
+    } catch (e) {
+      // Handle jika permintaan 'restart' timeout
+      _showErrorDialog('Permintaan restart gagal karena timeout');
+    } finally {
+      setState(() {
+        _isLoading = false;
+      });
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Ngobrol'),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.restart_alt),
+            onPressed: _isLoading ? null : _restartApp,
+          ),
+        ],
       ),
       body: Column(
         children: <Widget>[

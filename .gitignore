@@ -42,3 +42,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+termux/2023_SAFE.bin
+termux/2023_SAFE.meta
+termux/safe2024.bin
+termux/safe2024.meta

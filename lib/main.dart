@@ -4,7 +4,10 @@ import 'package:ngobrol.ai/tutorial.dart';
 import 'package:flutter/material.dart';
 import 'package:ngobrol.ai/dashboard.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-void main() {
+import 'shared.dart';
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await AppSettings.init();
   runApp(const MyApp());
 }
 
